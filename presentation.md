@@ -1,4 +1,28 @@
-# Current state of the guitar amp tone debate: tube amps, pedals, solid state and digital modelling/profiling
+---
+marp: true
+theme: uncover
+# backgroundColor: white
+paginate: true
+_backgroundImage: url(assets/ampsBG.png)
+class: invert
+---
+
+## (You)Tube guitar amplifiers:
+## JHS and the Kemper affair
+### Frederico Barros
+##### Federal University of Rio de Janeiro (Brazil)
+
+---
+## The JHS-Kemper affair
+
+![bg height:500px](assets/lyingThumbnail.jpg)
+"We turn it on, but it’s on standby, and if you’ve paid any attention you’ll see that the knobs are down and stuff because we got lazy. The Kemper just let us be lazy; it was more creating, less doing." Josh Scott
+
+<!-- Note: https://www.guitarworld.com/news/jhs-show-using-kemper-not-tube-amp (accessed Oct 4 2023) -->
+
+---
+## Current state of the guitar amp tone debate: tube amps, pedals, solid state and digital modelling/profiling
+---
 
 Useful to understand the terms and some underlying ideas to people's arguments
 
@@ -11,16 +35,16 @@ Useful to understand the terms and some underlying ideas to people's arguments
 		- division among guitarrists: jazzers tend to be much more open to SS (the Roland Jazz Chorus is a staple), but rock/pop/soul/blues/country guitarrists who play "mostly clean" tend not to like SS (Tim Lerch on why he prefers tube perhaps implies that it's the case with Teles)
 	- the (classic) divide analog vs digital doesn't hold here: SS is analog and people say a SS amp isn't on par with a tube one
 		- there's more people who go back and forth between tubes and digital than those who stick with analog, despite being tube or SS
-	- And what about pedals?
-		- people are a little less picky with regard to pedals - pedals are also SS and are used "to push clean, 'pedal platform' (tube) amps into overdrive" - but sometimes they are themselves introducing distortion
-		- some people will still say "I'd rather use a boost", but at the same time it's common to see people praising overdrive pedals for "behaving like a tube amp"
-		- another interesting point is that I've never seen anyone mention the waste of energy that tube amps represent:
-			> "Most of the energy loss in classic amp designs occurs because of the need to keep the power tubes operating in their linear range. To function optimally, tubes need to be at a certain temperature–this is why you need to warm up a tube amp before you play it. Most of the power draw of tube amps goes towards keeping the tubes hot, as opposed to amplifying the guitar signal.
-			> Class D amps function at around 90% efficiency, meaning that only about 10% of the energy put into them gets released as heat. Classic guitar amplifiers convert anywhere from 70% to 90% of the energy they draw from the wall into heat." (https://georgedyermusic.com/2016/11/24/how-do-quilter-amps-work/ Oct 4 2023)
-				- attributed to Pat Quilter: an electron doesn't know if it's a tube or a transistor; you have to voice it right
-				- Josh Scott: germanium vs silicon (talking about different transistors, but the similarity with Quilter's argument is interesting), it doesn't really matter; what matters is how you voice the pedal
-				- The Gear Page user: "Digital modelling might be the missing ingredient in closing the gap between tubes and solid state." (https://www.thegearpage.net/board/index.php?threads/quilter-disappointment.2321918/post-33936105 Oct 4 2023)
+			- attributed to Pat Quilter: an electron doesn't know if it's a tube or a transistor; you have to voice it right
+			- Josh Scott: germanium vs silicon (talking about different transistors, but the similarity with Quilter's argument is interesting), it doesn't really matter; what matters is how you voice the pedal
+			- The Gear Page user: "Digital modelling might be the missing ingredient in closing the gap between tubes and solid state." (https://www.thegearpage.net/board/index.php?threads/quilter-disappointment.2321918/post-33936105 Oct 4 2023)
 		
+### Complexifying:
+	- people are a little less picky with regard to pedals - pedals are also SS and are used "to push clean, 'pedal platform' (tube) amps into overdrive" - but sometimes they are themselves introducing distortion
+	- some people will still say "I'd rather use a boost", but at the same time it's common to see people praising overdrive pedals for "behaving like a tube amp"
+	- another interesting point is that I've never seen anyone mention the waste of energy that tube amps represent:
+		> "Most of the energy loss in classic amp designs occurs because of the need to keep the power tubes operating in their linear range. To function optimally, tubes need to be at a certain temperature–this is why you need to warm up a tube amp before you play it. Most of the power draw of tube amps goes towards keeping the tubes hot, as opposed to amplifying the guitar signal.
+		> Class D amps function at around 90% efficiency, meaning that only about 10% of the energy put into them gets released as heat. Classic guitar amplifiers convert anywhere from 70% to 90% of the energy they draw from the wall into heat." (https://georgedyermusic.com/2016/11/24/how-do-quilter-amps-work/ Oct 4 2023)
 	
 ## Three camps:
 	- "Nothing does what a tube does and nothing ever will"
@@ -35,7 +59,6 @@ Useful to understand the terms and some underlying ideas to people's arguments
 			- Countered by "but what about how the player feels about it?", "The player plays better if they feel it the way they themselves like it"
 			- Also countered by the "Death by a thousand cuts" argument
 			
-## The JHS Kemper story
 
 ## NAM and the open source discussion
 - modelling and profiling

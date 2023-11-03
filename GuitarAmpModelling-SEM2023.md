@@ -1,4 +1,21 @@
-# Current state of the guitar amp tone debate: tube amps, pedals, solid state and digital modelling/profiling
+## The current state of the guitar amp tone debate: tube amps, pedals, solid state and digital modelling/profiling
+
+Most likely, anyone who plays electric guitar these days has stumbled upon a YouTube video showcasing some piece of gear. Looking it up ourselves or having it shown to us either by a friend or "the algorithm", gear talk on the internet and especially on YouTube has become all but inevitable. Many people make up their minds about which gear to like or dislike based on videos and opinion interchange in internet forums such as The Gear Page, VI-Control, Gear Space and also the YouTube comments section itself. There, groups form around reverence or disdain for certain pieces of equipment, in an interesting shift from the classic Sociology-friendly genre-centric cleavages of old.
+
+Of course, the provocation doesn't mean to suggest that, 1, the splits between people in these forums around, say, a pedal like the Klon Centaur or Fender amplifiers haven't existed for a long time and, 2, that they aren't suitable to some sort of sociological treatment. However, it's interesting to note that before the internet, as people say, debate around musical genre used to engage much more people. This isn't a topic we can get into here, but the second one, that is, to throw a sociological gaze on how people address their gear choices is what interests me here.
+
+In discussing this, the main underlying theme I'd like us to keep in mind is that of democratization. We'll come back to it numerous times throughout the text, so at this point it might be worth outlining a baseline understanding of it. Democracy and its advances and reverses throughout History form a complex theme that obviously can't be dealt with here. I'm particularly interested in this article in forces that enable people to acquire knowledge and broadcast what they make with this knowledge. More specifically, I'm interested in how people's artistic aspirations can be set in motion and eventually released and what affords them these channels and catalysts. This all eventually feeds back into more general democratizating processes such as struggles for rights, against oppression or representativity - or at least that's what was widely believed (for but one far more general consideration of the same type of process, see Robert Darnton's classic works on pre-revolutionary France and the ensuing debate - Darnton, Boemia Literaria e Rev, The Business of Enlightenment and also The Darnton debate. See also the works cited in the next paragraph for something more directly related to our discussion).
+
+Technology has been hailed as a democratizing force at least since the beginning of the internet age (for just a few examples, see Lessig, Free Culture; Doctorow, Information Doesn't Want to be Free; Howard Rheingold, Smart Mobs). That was when the two things - tech and the internet - became conflated to the point of being almost synonymous, and today more than ever, there's practically no technological affair that isn't *connected* to the internet - the pun wasn't intentional, but it ended up being useful. Covering a broad spectrum that touches on digital rights activism, the free culture movement, Wikipedia, the blogosphere (remember that?), "copyfight", software and media piracy, free and open source software, crowdfunding, self-publishing initiatives, cryptocurrencies - before being entirely subsumed by its foundational libertarianism -, grassroots journalism, the so-called Arab Spring and even YouTube, technology is the common enabler to all of these phenomena.
+
+
+Democratization in the very use of software instead of hardware
+- software is cheaper (potentially free), takes less space (how about power?)
+- software can be harder or easier to use, depending on the user's skill/mindset (people who are used to amps tend to have a harder time with software)
+	
+
+
+
 
 Useful to understand the terms and some underlying ideas to people's arguments
 
@@ -22,7 +39,11 @@ Useful to understand the terms and some underlying ideas to people's arguments
 				- The Gear Page user: "Digital modelling might be the missing ingredient in closing the gap between tubes and solid state." (https://www.thegearpage.net/board/index.php?threads/quilter-disappointment.2321918/post-33936105 Oct 4 2023)
 		
 	
-## Three camps:
+## Three camps, two paradigms:
+- we can even talk about two paradigms:
+		- the traditional paradigm: tube amps, hard (heavy) to carry around, knobs, plug and play, direct control of defined parameters (which are in principle discrete, but there can be a lot of interaction between them when you dig), more flexibility (easier) in terms of how adjust it on the fly (one feature of tube amps is that they change their tone according to temperature and energy source, for example);
+		- the digital paradigm: software emulation (a brief discussion about the word "emulation"), having to scroll through (endless) menus, harder to tweak on the fly, at the same time tone is always the same, so it's predictable/reliable, light to carry around - but many times you don't carry because they are in computers at home that "bedroom guitarists" use (vs pros, who graduate to tube amps - but the A-level pros (who play with big acts) have been using (and publicizing) more and more modellers for their dependability and predictability). The solutions for gigging musicians try to bridge the gap between the immediacy of hardware solutions and the main selling points of the digital ones.
+
 	- "Nothing does what a tube does and nothing ever will"
 		- Countered by "Ok Boomer" - accusations of elitism, conservatism, superstition
 	- "Amp-modelling technology has matured and is now (virtually) indistinguishable

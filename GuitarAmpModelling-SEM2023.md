@@ -20,7 +20,7 @@ Software can either be considered easier or harder to use depending on the user'
 
 However, usually hardware gear allows for a kind of intervention on its inner workings that is rare in software due to it requiring, 1, that the source code is available and, 2, that the people interested in working on it have the technical expertise to do so. Granted, not every guitarist has the knowledge and "handy-ness" to get a soldering iron and start messing with pedals, let alone amps. But somehow - at least until the current kids reach adulthood - it is generally considered a lower barrier of entry than tinkering with Digital Signal Processing and the like. This can be verified by the abundance of DIY, modding and BYOC (Build Your Own Clone) forums and by how frequently this route is suggested in discussions in other forums. Conversely, at least to my knowledge, someone suggesting a fellow guitarist should go mess with a plugin's code is fairly of unusual. Maybe there is something here related to the fact that doing small fixes on one's own instrument is usually regarded as an ability a professional musician should possess, and then perhaps it passes over to hardware equipment in general. Software (so far) doesn't occupy a similar position and, at the very least, one needs to have access to the programs' source code to be able to modify it, which is in itself something rare in an industry that is built on the (supposed or real) exclusivity and uniqueness of each maker's algorithms, transforms, implementations etc.[^examplesOfIndustryHype]
 
-All this creates a somewhat predictable divide between the analogue and the digital realms. They would be different in nature, hence incommensurable in the knowledge one brings from one to the other. At the same time, since music software has the tendency to imitate - sometimes to minute detail - the analogue gear it is modelled after, it could be expected that regular use could be translated directly from one to the other. However, forum posts comparing digital versions to "the real deal" are legion. For an example, check the interface of Neural DSP's Tone King Imperial MKII plugin and compare it to a photo of the actual amplifier it tries to replicate:
+All this creates a somewhat predictable divide between the analogue and the digital realms. They would be different in nature, hence incommensurable in the knowledge one brings from one to the other. At the same time, since music software has the tendency to imitate - sometimes to minute detail - the analogue gear after which it is modelled, it could be expected that regular use could be translated directly from one to the other. For an example, check the interface of Neural DSP's Tone King Imperial MKII plugin and compare it to a photo of the actual amplifier it tries to replicate:
 
 ![Hardware Tone King Imperial MKII - front](./assets/TKImk2-front.jpg)
 ![Hardware Tone King Imperial MKII - back](./assets/TKImk2-back.jpg)
@@ -28,11 +28,20 @@ All this creates a somewhat predictable divide between the analogue and the digi
 ![NeuralDSP Tone King Imperial MKII plugin - front](./assets/NDSP-TKIml2-front.png)
 ![NeuralDSP Tone King Imperial MKII plugin - back](./assets/NDSP-TKIml2-back.png)
 
+Nevertheless, comparisons between digital versions and "the real deal" are legion. Just as a partial illustration, here's what turns up in a simple YouTube search (on 2023-11-14) using the query "Neural DSP Tone King Imperial MKII vs real amp":
+
+![thumbnail 5](./assets/NDSPvsAmp-5.png)
+![thumbnail 4](./assets/NDSPvsAmp-4.png)
+![thumbnail 3](./assets/NDSPvsAmp-3.png)
+![thumbnail 2](./assets/NDSPvsAmp-2.png)
+![thumbnail 1](./assets/NDSPvsAmp-1.png)
+
+### Tubes, transistors and code
+
+Despite the fact that I have just said that a division between the analogue and digital realms emerges in this discussion, I'd like to suggest another, more significant partition. Technically speaking, digital modelling amps are solid state, but here we'll divide the field in three categories: tube amps, solid state amps and digital modelling/profiling amps.
+
 ***
 
-Useful to understand the terms and some underlying ideas to people's arguments
-
-	- though technically digital modelling amps are solid state, here we'll divide the field in three categories: tube amps, solid state amps and digital modelling/profiling amps
 	- vacuum tubes: old technology, basically HiFi equipment and guitar amps
 		- introduce "harmonic distortion" that "we find pleasing"
 			- wattage != loudness

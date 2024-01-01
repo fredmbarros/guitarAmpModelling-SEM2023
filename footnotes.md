@@ -1,4 +1,5 @@
 [^groupFormation]: Group formation is a classic theme in the Social Sciences. For two slightly different perspectives on the subject that guide my thought here, see Latour (Reassembling?) and Barth (Streams of Culture).
+[^sociologyOfMusicalGenre]: PEGAR REFERENCIAS
 [^forumCulture]: Pegar as referências sobre internet forum culture - tem algo na discussão sobre redes sociais na CSA.
 [^deibert]: For a general framework for this discussion, dealing with the political reverberations of the democracy and technology problem, see Deibert - Reset.
 [^darnton]: For but one far more general consideration of the same type of process, see Robert Darnton's classic works on pre-revolutionary France and the ensuing debate - Darnton, Boemia Literaria e Rev, The Business of Enlightenment and also The Darnton debate. See also the works cited in the next paragraph for something more directly related to our discussion.

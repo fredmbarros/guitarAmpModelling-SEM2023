@@ -16,3 +16,18 @@
 [^presetSharingAndCommunity]: This is also interesting for the makers of such software, as it leverages the creation of a community to add value to their product not only by making it easier to obtain certain results and variety through the combined knowledge of its users but also by hyping it (the bigger the community, the greater the perception of it being valuable) and by increasing the costs of moving to another platform.
 [^loadBoxCabSim]: A load box simulates the impedance of a speaker, making it possible to play an amplifier without a physical speaker connected to it. It is commonly used in conjunction with cabinet simulators, which are either software or hardware solutions to obtain the resulting sound of a cabinet without employing one, thus creating the possibility of running the amp silently, sending its signal straight into the recording interface for in-the-box treatment, for example.
 [^webersIdealTypes]: The basic reference, of course, is Max Weber (REF). For starters, there's the marked difference that Weber's ideal types are intellectual constructions built based on the observation of reality, but which don't exist. They are like a condensate constructed intellectually so that one can have a perception of what is most typical of that thing being described. It is, however, in the way these serve as points of reference for investigating reality that the concept can be useful here.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

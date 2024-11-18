@@ -20,3 +20,11 @@ Vanhatalo, Tara, Pierrick Legrand, Myriam Desainte-Catherine, Pierre Hanna, Anto
 Waldron, Janice L. “Online Music Communities and Social Media”. Bartleet, Brydie-Leigh, and Lee Higgins. The Oxford Handbook of Community Music. Oxford Handbooks. New York, NY: Oxford University Press, 2018.
 
 Wang, Yao, and Abdul Majeed. “How Do Users' Feedback Influence Creators’ Contributions: An Empirical Study of an Online Music Community.” Behaviour & Information Technology 42, no. 9 (July 4, 2023): 1357–73.
+
+
+
+
+
+
+
+

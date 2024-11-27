@@ -1,7 +1,8 @@
 [^groupFormation]: Group formation is a classic theme in the Social Sciences. For two slightly different perspectives on the subject that guide my thought here, see Latour (Reassembling?) and Barth (Streams of Culture).
 [numbersOfGearTalk]
 [JhsPedalCollectionLargest]: https://guitar.com/news/gear-news/josh-scott-banned-from-owning-new-poison-noises-pedal-not-for-josh/
-[JhsPedalHistorian]
+[JhsPedalHistorian]: video em que o Josh Scott se define como historiador
+[videoSobreOJohnCordy]: nesse video ele fala de si como teacher/educator
 [JHSPedalsChannelSize]: at the time of this writing his company's YouTube channel has 999 videos uploaded to the platform, 494 thousand subscribers, and 102 million total views.
 [refDescricaoLoudIsMoreGood]: https://jhspedals.info/products/loud-is-more-good-helix?srsltid=AfmBOopNJWAO4lNO4BqLmYFnhfTi3JvBfnGDG027aWKfI51Y02OzDvAC (acessed in Nov 20, 2024)
 [^sociologyOfMusicalGenre]: PEGAR REFERENCIAS

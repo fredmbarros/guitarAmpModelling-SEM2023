@@ -6,6 +6,14 @@
 [JHSPedalsChannelSize]: at the time of this writing his company's YouTube channel has 999 videos uploaded to the platform, 494 thousand subscribers, and 102 million total views.
 [refDescricaoLoudIsMoreGood]: https://jhspedals.info/products/loud-is-more-good-helix?srsltid=AfmBOopNJWAO4lNO4BqLmYFnhfTi3JvBfnGDG027aWKfI51Y02OzDvAC (acessed in Nov 20, 2024)
 [artigoHistoriaAmpsGuitarWorld]: https://www.guitarworld.com/features/solid-state-digital-guitar-amps-evolution-future-of-tubes (accessed in Nov 30, 2024)
+[^pegarReferenciaNasAbasDoTelefone]
+[^referenciaMoveAir]
+[^notASolidStateHater]: https://www.reddit.com/r/GuitarAmps/comments/1fhktq2/comment/lndcf4n/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+[^interestingInteractions]: https://www.reddit.com/r/GuitarAmps/comments/1fhktq2/comment/lnaq0h1/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+[^iI2]: https://www.reddit.com/r/GuitarAmps/comments/1fhktq2/comment/lnarbyl/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+[iI3]: https://www.reddit.com/r/GuitarAmps/comments/1fhktq2/comment/lnb7ofu/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+[iI4]: https://www.reddit.com/r/GuitarAmps/comments/1fhktq2/comment/lndanxc/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+[iI5]: https://www.reddit.com/r/GuitarAmps/comments/1fhktq2/comment/lnf3res/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
 [^sociologyOfMusicalGenre]: PEGAR REFERENCIAS
 [^forumCulture]: Pegar as referências sobre internet forum culture - tem algo na discussão sobre redes sociais na CSA.
 [^EnglishSpeakingOverlooksGenre]: This could be an interesting conversation in another article.

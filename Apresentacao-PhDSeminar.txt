@@ -64,3 +64,43 @@ You are partly right here. Tube amps do still prevail but that is not based sole
 - As I said earlier about the Roland jazz chorus, it was modern and hip until it wasn’t anymore, just like the DX7, the Linn drum machine or chorus pedals… 
 - …all of which have made or are making a comeback
 - Exemplo do som do polyphia
+
+
+
+
+
+
+
+
+*** 
+
+
+
+
+
+
+Part of a larger article I’m working on
+
+Amplifiers are an ongoing conversation,
+tube vs ss vs digital
+but despite the potential nerdiness of the topic, I believe they are also a conversation that shows some other things, like
+how changes in equipment choice are part of larger trends
+this is obvious, of course, but it’s interesting to see these are happening, the specifics
+that’s what I’ll discuss here
+
+Tube amps are the standard
+old tech
+were the first (radio, beginning of 20th century)
+The earliest amplifiers were basically just cranking up the electric signal from a guitar so it could be heard through a speaker. Guitarists quickly discovered that turning up the volume not only made it louder but also gave a cool overdrive effect.
+but new tech was invented:
+SS: more efficient, light, reliable
+sounded different
+and at first just substituted transistors for tubes
+and sounded bad
+but then came the Roland Jazz Chorus:
+from 70s/80s fusion and jazz guys to Metallica (procurar onde Metallica usou) to Freddie King to The Cure
+    - as I said, tubes are old tech
+		- hard to replicate with transistors
+            (- digital tries to, with better success)
+
+

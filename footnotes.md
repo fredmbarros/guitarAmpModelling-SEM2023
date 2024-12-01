@@ -5,6 +5,7 @@
 [videoSobreOJohnCordy]: nesse video ele fala de si como teacher/educator
 [JHSPedalsChannelSize]: at the time of this writing his company's YouTube channel has 999 videos uploaded to the platform, 494 thousand subscribers, and 102 million total views.
 [refDescricaoLoudIsMoreGood]: https://jhspedals.info/products/loud-is-more-good-helix?srsltid=AfmBOopNJWAO4lNO4BqLmYFnhfTi3JvBfnGDG027aWKfI51Y02OzDvAC (acessed in Nov 20, 2024)
+[artigoHistoriaAmpsGuitarWorld]: https://www.guitarworld.com/features/solid-state-digital-guitar-amps-evolution-future-of-tubes (accessed in Nov 30, 2024)
 [^sociologyOfMusicalGenre]: PEGAR REFERENCIAS
 [^forumCulture]: Pegar as referências sobre internet forum culture - tem algo na discussão sobre redes sociais na CSA.
 [^EnglishSpeakingOverlooksGenre]: This could be an interesting conversation in another article.

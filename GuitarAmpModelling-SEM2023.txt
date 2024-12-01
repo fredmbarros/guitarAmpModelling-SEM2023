@@ -35,18 +35,18 @@ The whole video is a stunt, as if Josh had gone mad, locked himself in the video
 
 At 6:20, Scott shows the amp and states "We've been just... not really turning it on... We turn it on, but it's on standby. If you've paid any attention, like, you (sic) see all the knobs are down and stuff 'cause we got lazy". Before that, around 5:06, the video shows in red letters on a black background: "We did a blind test for a whole year and no one noticed".
 
-The Kemper Profiler is a device that can capture (profile) an amplifier's sound, like a digital snapshot of the amplifier in the state it was when captured. This allows the Kemper to substitute the amplifier, either requiring a speaker or another outlet to be heard and the video itself is a huge ad for the profiles that JHS, in a joined effort with profile maker Tone Junkie, was releasing at that moment:
+The Kemper Profiler is a device that can capture (profile) an amplifier's sound, like a digital snapshot of the amplifier in the state it was when captured. This allows the Kemper to substitute the amplifier, either requiring a speaker or another outlet to be heard and the video itself is a huge ad for the profiles that JHS was releasing at that moment in a joined effort with profile maker Tone Junkie:
 
 [figura kemperProfilesAd]
 
-This threw gasoline on an ongoing controversy around digital and analog equipment and, most notably, tube amplifiers. So-called tube amplifiers are the oldest type of such device, at least among those still in use. Based on radio equipment from the first half of the 20th century, they employed vaccuum tubes to amplify the guitar's signal and in so doing, introduce harmonic distortion that arises from how their circuits behave differently in different regions of the spectrum. These *non-linearities* in the circuit tend to insert even harmonics to the signal and, at some point in volume increase, the amplifier starts to clip the signal, which is when the amp's limit is reached. Tube amplifiers do what is known as *soft-clipping", which is a more subtle and softer cut in the high peaks of the signal once it reaches the amplifier's limits in amplitude. For these eir harmonic distortion, favoring even-numbered harmonics, is usually seen as more pleasing to the ear.
+This touched on the age-old discussion around electric guitar tone and tube amplifiers.[REFERENCIA] Based on radio equipment from the first half of the 20th century, guitar amplifiers employing vaccuum tubes are the oldest type of such device, at least among those still in use. Their most significant characteristic is that, as one increases the gain, they clip the signal in a non-linear fashion, adding what became known as *harmonic distortion*. This behaviour is usually considered what makes the sound of those amplifiers more pleasing to the ear.
 
-	- vacuum tubes: old technology, basically HiFi equipment and guitar amps
-		- introduce "harmonic distortion" that "we find pleasing"
-			- wattage != loudness
-	- solid state amps generally aren't considered capable of offering tube tone
-		- this quickly becomes "aren't capable of good tone" (people say they are sterile-sounding)
-		- division among guitarists: jazzers tend to be much more open to SS (the Roland Jazz Chorus is a staple), but rock/pop/soul/blues/country guitarists who play "mostly clean" tend not to like SS (Tim Lerch on why he prefers tube perhaps implies that it's the case with Teles)
+Despite their tone, tube amps had (and still have) disadvantages. In a time before PA systems, when musicians had to make themselves heard through amplifiers on stage, obtaining a clean sound was not always possible and distortion, "harmonic" or otherwise, is not necessarily always desireable. To ensure some more headroom (the "margin" of volume one can increase before distorting), or even sheer volume when distorted, amplifiers became bigger, which meant heavier and consequently much harder to lug around. These amplifiers also require constant care and maintenance, as tubes are fragile and need to be replaced periodically. Finally, tubes can behave erraticaly depending on external conditions such as temperature or electric current, making them hard to control.
+
+Following previous attempts by various makers of using transistor-based circuits instead of tubes--some of which with some degree of success--, in 1975 Roland introduced the Jazz Chorus 120. Surely the first and probably the only solid-state amplifier to truly achieve a status of its own, the JC120 was no longer seen as a lesser version of the tube amps that dominated the music industry.[artigoHistoriaAmpsGuitarWorld] In hindsight, the Jazz Chorus obtained a place for itself, which means that it did not take the place of tube amps. Each had its own sound, its weaknesses and strengths and its fans and detractors.
+
+FALAR AQUI DAS POSICOES E ENTAO ENTRAR NA ETNOGRAFIA DE NOVO, APRESENTANDO O QUE AS PESSOAS DISSERAM NO CASO DO JHS-KEMPER **SOBRE AMPS, NÃO SOBRE A HONESTIDADE DO JOSH ETC**
+
 	- the (classic) divide analog vs digital doesn't hold here: SS is analog and people say a SS amp isn't on par with a tube one
 		- there's more people who go back and forth between tubes and digital than those who stick with analog, despite being tube or SS
 	- And what about pedals?

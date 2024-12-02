@@ -4,8 +4,9 @@ The current state of the guitar amp tone debate: tube amps, pedals, solid state 
 
 Introduction
 
-Anyone who plays electric guitar in our time has very likely stumbled upon more than one YouTube video showcasing some piece of equipment. Looking it up ourselves or having it shown to us either by a friend or by "the algorithm", talking about gear on the internet is all but inevitable for musicians these days. In fact, it's safe to say that it has become a fundamental part of forming one's opinions. , like when a salesperson showed me an unknown (to me) guitar in a store and replied "yeah, go look it up one the internet before making a decision" after I said I was just looking and would want to think a little more before buying anything. In a sense, internet forums such as The Gear Page, music-related Facebook groups, Instagram posts or YouTube videos and their comments section are instances where groups form[^groupFormation] around reverence or disdain for certain pieces of equipment.
+Anyone who plays electric guitar these days has very likely stumbled upon some YouTube video showcasing guitar equipment. Looking it up ourselves or having it shown to us either by a friend or by "the algorithm", talking about gear on the internet is all but inevitable for musicians these days. In fact, it's safe to say that it has become a fundamental part of forming one's opinions. , like when a salesperson showed me an unknown (to me) guitar in a store and replied "yeah, go look it up one the internet before making a decision" after I said I was just looking and would want to think a little more before buying anything.
 
+In a sense, internet forums such as The Gear Page, music-related Facebook groups, Instagram posts or YouTube videos and their comments section are instances where groups form[^groupFormation] around reverence or disdain for certain pieces of equipment.
 
 In this article, I will focus on online discussions about digital modelling and profiling of guitar amplifiers, presenting three fairly recent events and exploring the controversies that arose from them: first the disclosure by a famous YouTuber in the guitar space of having covertly used a digital amplifier during gear demonstrations; then the advent of a piece of free and open-source software that some users claim rivals expensive proprietary solutions; finally, I would like to address an ongoing discussion about gain-staging when using guitar amplifier software.
 
@@ -16,7 +17,7 @@ Similarly to Callon's (2006) work on technological controversies, I followed onl
 [BREVE EXPLICAÇÃO DE COMO CALLON/LATOUR TRABALHAM E DO QUE SÃO ORDENS DE JUSTIFICAÇÃO PARA BOLTANSKI/THÉV]
 
 ## The JHS-Kemper affair
-JHS Pedals is a company especialized in making guitar pedals. Its founder, Josh Scott, started fixing and modifying (modding) pedals for himself and for friends around 2007. Word spread out and he started selling those under the name JHS Mods, eventually getting into making his own pedals. At that time, Scott was making a living off flipping gear, that is, buying and selling used equipment, and slowly built a substantial pedal collection that is currently believed to be the largest in the world.[^JhsPedalCollectionLargest]
+JHS Pedals is a company specialized in making guitar pedals. Its founder, Josh Scott, started fixing and modifying (modding) pedals for himself and for friends around 2007. Word spread out and he started selling those under the name JHS Mods, eventually getting into making his own pedals. At that time, Scott was making a living off flipping gear, that is, buying and selling used equipment, and slowly built a substantial pedal collection that is currently believed to be the largest in the world.[^JhsPedalCollectionLargest]
 
 Scott sometimes defines himself as a pedal historian[^JhsPedalHistorian] and educator[^videoSobreOJohnCordy] and many videos in JHS's channel deal with the history of equipment, people and companies important in guitar history or explain and demonstrate guitar effects, though rarely getting into actual product demos. The channel often produces videos of a mythbusting character too, like the "Can You Hear It?" series, in which blind tests comparing famous pedals to inexpensive alternatives are performed. These tests involve someone from the crew, but the audience can also test itself--though it does not get to interact, as the whole procedure involves only the tester knowing which is which. 
 
@@ -26,7 +27,9 @@ Scott's huge pedal collection is featured prominently in virtually all of his co
 
 [SCREENSHOT]
 
-In the screenshot above we see cables getting in and out of the equipment displayed, but we cannot know for sure the whole signal path, as the framing naturally leaves a lot out of the picture. For example, cables usually utilize similar plugs on both ends (though sometimes one can be straight and the other L-shaped), so we could wonder whether the cable leaving the white pedal on the left (guitar pedals are connected right to left, so that would be the last pedal in the signal chain) is really going into the amp at the forefront, given that the plugs do not match. Even then, this could be a custom-made cable sporting different plugs for whatever reason. Anyway, all the sounds we hear appear to be passing through the Loud Is More Good amplifier, which, as with any other guitar amplifier, adds its own color to the sound. Scott demoed his own and various other pedals through this setup, showed the differences between Phasers, Flangers and Choruses, made tests showing how a vintage 60s Shin-Ei Uni-Vibe sounds compared to modern versions of that circuit, and put a Klon Centaur (a pedal that as of November 2024 can be found listed for around US$8000.00 on the used market) side-by-side with supposedly lesser overdrives for the audience's appreciation. Then, on December 20, 2022, JHS released an episode of the JHS Show with the following thumbnail:
+In the screenshot above we see cables getting in and out of the equipment displayed, but we cannot know for sure the whole signal path, as the framing naturally leaves a lot out of the picture. For example, cables usually utilize similar plugs on both ends (though sometimes one can be straight and the other L-shaped), so we could wonder whether the cable leaving the white pedal on the left (guitar pedals are connected right to left, so that would be the last pedal in the signal chain) is really going into the amp at the forefront, given that the plugs do not match. Even then, this could be a custom-made cable sporting different plugs for whatever reason. Anyway, all the sounds we hear appear to be passing through the Loud Is More Good amplifier, which, as with any other guitar amplifier, adds its own color to the sound. Scott demoed his own and various other pedals through this setup, showed the differences between Phasers, Flangers and Choruses, made tests showing how a vintage 60s Shin-Ei Uni-Vibe sounds compared to modern versions of that circuit, and put a Klon Centaur (a pedal that as of November 2024 can be found listed for around US$8000.00 on the used market) side-by-side with supposedly lesser overdrives for the audience's appreciation. 
+
+Then, on December 20, 2022, JHS released an episode of the JHS Show with the following thumbnail:
 
 [THUMBNAIL DO EPISODIO I'VE BEEN LYING TO YOU]
 
@@ -40,48 +43,76 @@ The Kemper Profiler is a device that can capture (profile) an amplifier's sound,
 
 [figura kemperProfilesAd]
 
-This touched on the age-old discussion around electric guitar tone and tube amplifiers.[REFERENCIA] Based on radio equipment from the first half of the 20th century, guitar amplifiers employing vaccuum tubes are the oldest type of such device, at least among those still in use. Their most significant characteristic is that, as one increases the gain, they clip the signal in a non-linear fashion, adding what became known as *harmonic distortion*. This behaviour is usually considered what makes the sound of those amplifiers more pleasing.[REFERENCIA]
+JHS's "blind test" fed off a never-ending discussion around electric guitar tone and amplifiers. For decades now, people have been arguing if an adequate tube replacement has come along and what trade-offs it brings.[REFERENCIA] A brief digression into the position currently occupied by amp modelling and profiling devices can thus help us better see what the JHS-Kemper affair has to offer.
 
-### Digression: tubes, transistors and code
+### Tubes, transistors and code
 
-Despite their sought-after tone, tube amps have their shortcomings. In the 1960s, most venues' Public Address (PA) systems--if they had one at all--were dedicated to the voice, and musicians had to make themselves heard through amplifiers on stage.[^pegarReferenciaNasAbasDoTelefone] Under these conditions, obtaining a clean sound was not always possible and distortion, "harmonic" or otherwise, is not necessarily always desirable. To ensure more headroom (the range of volume before distorting), or even to get louder when distorted, amplifiers became bigger--and as a consequence heavier and harder to lug around. Nowadays PA systems amplify the entire band and guitarists can use lower-wattage tube amplifiers with microphones placed in front to capture their sound, but many players say that, to get "their tone", bigger amps that "move air" are necessary.[^referenciaMoveAir] Even then, tubes are fragile and need to be replaced periodically, thus making those amps constantly in need of care and maintenance. Finally, tubes can behave erratically depending on external conditions such as temperature or electric current, making them inconsistent.
+Based on radio equipment from the first half of the 20th century, guitar amplifiers employing vaccuum tubes are the oldest type of such device, at least among those still in use. Their most significant characteristic is that, as one increases the gain, they clip the signal in a non-linear fashion, adding what became known as *harmonic distortion*. This behaviour is usually considered what makes the sound of those amplifiers more pleasing.[REFERENCIA]
 
-To this day, these shortcomings are still voiced by guitarists. To some, these are part of the deal, while for others these are deal breakers:
+Despite their sought-after tone, tube amps have their shortcomings. In the 1960s, most venues' Public Address (PA) systems--if they had one at all--were dedicated to the voice, and musicians had to make themselves heard through amplifiers on stage.[^pegarReferenciaNasAbasDoTelefone] Under these conditions, obtaining a clean sound was not always possible and distortion, "harmonic" or otherwise, is not necessarily always desirable. To ensure more headroom (the range of volume before distorting), or even to get louder when distorted, amplifiers became bigger--and as a consequence heavier and harder to lug around. Nowadays PA systems amplify the entire band and guitarists can use lower-wattage tube amplifiers with microphones placed in front to capture their sound, but many players say that, to get "their tone", bigger amps that "move air" are necessary.[^referenciaMoveAir] Even then, tubes are fragile and need to be replaced periodically, making those amps in need of constant care and maintenance. Finally, tubes can behave erratically depending on external conditions such as temperature or electric current, making them inconsistent.
+
+To this day, these shortcomings are still voiced by guitarists. To some, they are part of the deal, while for others they are deal breakers:
 
 EXEMPLOS DE GENTE RECLAMANDO DESSES PROBLEMAS COM VALVULADOS - **INCLUIR OS QUE DAÍ PARTEM PARA SS OU DIGITAL**
 
-Following previous attempts by various makers of using transistor-based circuits instead of tubes--some of which with certain degree of success--, in 1975 Roland introduced the Jazz Chorus 120. Surely the first and maybe the only solid-state amplifier to truly achieve a status of its own, the JC120 was no longer seen as a lesser version of the tube amps that dominated the music industry.[^artigoHistoriaAmpsGuitarWorld] In hindsight, the Jazz Chorus obtained a place for itself, which means that it did not take the place of tube amps. Each had its own sound, its weaknesses and strengths and its fans and detractors. For instance, in the discussion website Reddit, on the r/GuitarAmps subreddit, a user asked "how come solid state amps never took off like tube amps did?", to which another user replied:
+Following previous attempts by various makers of using transistor-based circuits instead of tubes--some of which with certain degree of success--, in 1975 Roland introduced the Jazz Chorus 120. Surely the first and maybe the only solid-state amplifier to truly achieve a status of its own, the JC120 was no longer seen as a lesser version of the tube amps that dominated the music industry.[^artigoHistoriaAmpsGuitarWorld] In hindsight, the Jazz Chorus obtained a place for itself, which means that it did not replace tube amps. Each had its own sound, its weaknesses and strengths and its fans and detractors. For instance, on the r/GuitarAmps forum of the discussion website Reddit, a redditor (that's how Reddit users are called) asked "how come solid state amps never took off like tube amps did?", to which another redditor replied:
 
-> Yeah I think the whole thing OP is missing is... Solid State amps did take off in the 80's and 90's. I was just a kid, but no one I knew had a tube amp. The issue was most of them sounded like shit compared to tube (with basically the amps you've mentioned being the exception).
+> Yeah I think the whole thing OP (Original Poster) is missing is... Solid State amps did take off in the 80's and 90's. I was just a kid, but no one I knew had a tube amp. The issue was most of them sounded like shit compared to tube (with basically the amps you've mentioned being the exception).
 > I'm not a solid state hater either... my first amp was an ss Fender combo and it sounded amazing at normal bedroom or jamming volumes. Sounded like shit cranked but it was plenty loud as fuck anyway at 2-3... second loudest amp I've ever owned, the other being a ss Sunn Beta (also a badass solid state). I forgot the model name of the Fender unfortunately but it was a truly great amp with such nice distortion and reverb. Jonny Greenwood uses a ss Fender, or did for years at least.
 > Anyway I just love and prefer how tube amps respond, sound, feel... obviously it's a difficult thing to replicate and I think the best sounding solid states are the ones that are they're own beast and not necessarily trying to replicate the tube sound.[^notASolidStateHater]
 
-This other response generated some interesting interactions:
+The following response to the OP generated some interesting subsequent replies:
 
 > I think originally, amp makers were trying to make the guitar sound accurate. Guitarists didn’t want accurate, they wanted awesome. Cranked tubes add high end because it’s easier to push than lower frequencies. They compress because of power sag and response time. They are large and can vibrate so feedback tends to be resonant. It’s almost like a part of the instrument now.[^interestingInteractions]
 
-Another forum dweller in response:
+Another redditor replied to this (Reddit has a peculiar structure in which replies can be nested as people go on responding to responses) agreeing and adding:
 
 > This coupled with one thing most people tend to forget, early quality control on ss amps wasn't great and they weren't quite ready to be pushed out on to the market yet. Most failed a huge, flaming and epic death. They were inconsistent junk, no matter where they were in the price structure of the line and gave ss the junk status or cheap status it still has today in guitar amps. They just weren't reliable at all when they came out and they were pushed out too quickly and killed their own long term potential in the market.[^iI2]
 
-Which by its turn got the following reply by forum dweller no. 3:
+Which by its turn got the following reply from Redditor number 3:
 
 > Yep. And they demonstrably don’t sound as good. Even as the tech developed. Like, regardless of the reasons, a Valvestate just doesn’t sound as good as a JCM800. It just doesn’t.
 > Now, solid state will sound as good some day (and high-end modeling stuff might already be there), but historically pretty much every production solid state amp has been inferior to any decent tube amp.
-> Edit: come on; you all know what I’m saying. Yes, Roland, jazz chorus is a good app, etc. But if you look up lists attempting to rank the best amps ever made, on pretty much every list, 9 of the 10 amps listed are going to be tube amps. And that’s for a reason.[^iI3]
+> Edit: come on; you all know what I’m saying. Yes, Roland, jazz chorus is a good app (sic), etc. But if you look up lists attempting to rank the best amps ever made, on pretty much every list, 9 of the 10 amps listed are going to be tube amps. And that’s for a reason.[^iI3]
 
-Forum dweller no. 4:
+Redditor number 4:
 
 > this is simply untrue, “sound better” is subjective and solid state amplification wins in almost every objective measure such as cost, reliability, headroom, amount of gain, transparent amplification + eq control, then start including on board fx (although there’s an argument to be made abt analog vs digital fx) and your point is pretty weak
 > tube responsiveness is like the only thing that is “better” but even then it is just because guitarists have learned to adjust their dynamics and playing style around tube amps [^iI4]: https://www.reddit.com/r/GuitarAmps/comments/1fhktq2/comment/lndanxc/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
 
-Forum dweller 3 again:
+Redditor 3 again:
 
 > I feel like I’m in bizarro land; every gear post with killer gear features a tube amp, and suddenly everyone is like “solid state amps are great!”[^iI5]: https://www.reddit.com/r/GuitarAmps/comments/1fhktq2/comment/lnf3res/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
 
+As we can see from this brief example, the dissent about these matters can go deep. Discussions like this one are legion on internet forums, with multiple threads on the same themes, overlapping and cross-referencing. However, If the general feeling about solid-state amplifiers is not the most favorable, their digital counterparts have had a more nuanced story.
+
+Digital equipment that tried to produce a tone similar to tube amplifiers started to reach the market in the 1990s. The Boss GT100
+
+There is a third kind of amplifier that occupies sort of an intermediary position in this discussion: hardware digital amps. These are hardware amps that employ digital technology in some of its components. What the digital part is doing varies considerably from model to model, some being all analogue with only a digital reverb, while others have a great deal of their tone produced by their onboard computers. Many are in fact entirely *solid-state*, employing both digital and analogue tone-producing means, while others are tube amps with digital technology added (like a load box and cabinet simulator,[^loadBoxCabSim] for example), often including all three technologies spread across different parts of the device.
+
+Despite the fact that I have been dwelling on the split between the analogue and digital realms and how it pertains to our discussion, I'd like to suggest another categorization. This perspective does not render the other obsolete, but rather adds another layer to the discussion: tube amps, solid state amps and digital modelling/profiling amps. For us to be able to keep up with the arguments that we will see some users elaborate below, a basic, working understanding of these three types can be useful.
+
+
+## Three camps, two paradigms:
+- we can talk about two paradigms:
+		- the traditional paradigm: tube amps, hard (heavy) to carry around, knobs, plug and play, direct control of defined parameters (which are in principle discrete, but there can be a lot of interaction between them when you dig), more flexibility (easier) in terms of how adjust it on the fly (one feature of tube amps is that they change their tone according to temperature and energy source, for example);
+		- the digital paradigm: software emulation (a brief discussion about the word "emulation"), having to scroll through (endless) menus, harder to tweak on the fly, at the same time tone is always the same, so it's predictable/reliable, light to carry around - but many times you don't carry because they are in computers at home that "bedroom guitarists" use (vs pros, who graduate to tube amps - but the A-level pros (who play with big acts) have been using (and publicizing) more and more modellers for their dependability and predictability). The solutions for gigging musicians try to bridge the gap between the immediacy of hardware solutions and the main selling points of the digital ones.
 
 
 FALAR AQUI DAS POSICOES E ENTAO ENTRAR NA ETNOGRAFIA DE NOVO, APRESENTANDO O QUE AS PESSOAS DISSERAM NO CASO DO JHS-KEMPER **SOBRE AMPS, NÃO SOBRE A HONESTIDADE DO JOSH ETC**
+
+Now that we have a better understanding of the place tube amplifiers occupy in the guitar space, we can see what is at play in the JHS-Kemper affair. JHS's "blind test" is actually perfectly on-brand, as if they decided to do a year-long "Can You Hear It?" episode with their entire audience, but without the audience knowing--let alone consenting to it. Even the video's slight troll-like tone fits the JHS Show's schtick and may have actually helped prevent harming the company's reputation from being discredited--as if people considered that it was their way of doing entertainment--, although once in a while someone may bring this up:
+
+> The folks going all in on taking great umbrage with misleading titles, clickbait thumbnails, or manufactured controversy, must not follow Josh or JHS on YouTube.
+> Either that or they forgot the year long Kemper deception & subsequent "we're smarter than all y'all" videos, the Klon reverb listing, the Bad Monkey ordeal, and any number of other things JHS has done purely for attention & publicity.[^Allen_Overby_JhsNoFacebook]
+
+> Brett Huhn
+> If it’s just a silly thing, then why did they take so long to spill about it? Yeah the fish stinks from the head. After years, I still only have one JHS pedal. It is fun to read the group posts here.
+> You defend the indefensible when you defend the Elephant in the room. It’s like, OK, you can lie to me about small stuff when you’re selling me something and as long as you don’t lie to me about the big stuff then I’ll keep buying your gear. ￼So then Ya want to feel better about yourself and your own failings by convincing others to accept the tiny little lie as well …
+> Nah man believe what you want, but don’t expect folks to hop on your bandwagon. I trust their videos not one bit.[^dontTrustJHS]: https://www.facebook.com/share/p/15KcFpMKXr/
+
+
+
 
 	- the (classic) divide analog vs digital doesn't hold here: SS is analog and people say a SS amp isn't on par with a tube one
 		- there's more people who go back and forth between tubes and digital than those who stick with analog, despite being tube or SS
@@ -175,7 +206,7 @@ All this creates a somewhat predictable divide between the analogue and the digi
 ![NeuralDSP Tone King Imperial MKII plugin - front](./assets/NDSP-TKIml2-front.png)
 ![NeuralDSP Tone King Imperial MKII plugin - back](./assets/NDSP-TKIml2-back.png)
 
-Nevertheless, comparisons between digital versions and "the real deal" are legion. For instance, here's what turns up in a simple YouTube search (on 2023-11-14) using the query "Neural DSP Tone King Imperial MKII vs real amp":
+Nevertheless, comparisons between digital versions and "the real deal" abound. For instance, here's what turns up in a simple YouTube search (on 2023-11-14) using the query "Neural DSP Tone King Imperial MKII vs real amp":
 
 ![thumbnail 5](./assets/NDSPvsAmp-5.png)
 ![thumbnail 4](./assets/NDSPvsAmp-4.png)
@@ -183,17 +214,8 @@ Nevertheless, comparisons between digital versions and "the real deal" are legio
 ![thumbnail 2](./assets/NDSPvsAmp-2.png)
 ![thumbnail 1](./assets/NDSPvsAmp-1.png)
 
-### Tubes, transistors and code
 
-There is a third kind of amplifier that occupies sort of an intermediary position in this discussion: hardware digital amps. These are hardware amps that employ digital technology in some of its components. What the digital part is doing varies considerably from model to model, some being all analogue with only a digital reverb, while others have a great deal of their tone produced by their onboard computers. Many are in fact entirely *solid-state*, employing both digital and analogue tone-producing means, while others are tube amps with digital technology added (like a load box and cabinet simulator,[^loadBoxCabSim] for example), often including all three technologies spread across different parts of the device.
-
-Despite the fact that I have been dwelling on the split between the analogue and digital realms and how it pertains to our discussion, I'd like to suggest another categorization. This perspective does not render the other obsolete, but rather adds another layer to the discussion: tube amps, solid state amps and digital modelling/profiling amps. For us to be able to keep up with the arguments that we will see some users elaborate below, a basic, working understanding of these three types can be useful.
-
-
-## Three camps, two paradigms:
-- we can talk about two paradigms:
-		- the traditional paradigm: tube amps, hard (heavy) to carry around, knobs, plug and play, direct control of defined parameters (which are in principle discrete, but there can be a lot of interaction between them when you dig), more flexibility (easier) in terms of how adjust it on the fly (one feature of tube amps is that they change their tone according to temperature and energy source, for example);
-		- the digital paradigm: software emulation (a brief discussion about the word "emulation"), having to scroll through (endless) menus, harder to tweak on the fly, at the same time tone is always the same, so it's predictable/reliable, light to carry around - but many times you don't carry because they are in computers at home that "bedroom guitarists" use (vs pros, who graduate to tube amps - but the A-level pros (who play with big acts) have been using (and publicizing) more and more modellers for their dependability and predictability). The solutions for gigging musicians try to bridge the gap between the immediacy of hardware solutions and the main selling points of the digital ones.
+## Argumentos:
 
 	- "Nothing does what a tube does and nothing ever will"
 		- Countered by "Ok Boomer" - accusations of elitism, conservatism, superstition

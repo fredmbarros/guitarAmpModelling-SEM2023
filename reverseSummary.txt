@@ -19,4 +19,36 @@
 19. People still complain about these shortcomings (w/ examples)
 20. SS is its own thing; doesn't replace tubes
 21. Examples about SS ("SS is accurate, but guitarists don't want accurate" or SS wasn't ready for prime time when it came out)
-22.  
+22. Many threads tubes vs SS, digital is more nuanced
+23. Brief history of modellers
+24. 3rd kind of amp: digital/analog SS hybrid
+25. tubes vs SS vs digital > analog vs digital
+26. two paradigms (characteristics of analog vs characteristics of digital)
+27. FALAR AQUI DAS POSICOES E ENTAO ENTRAR NA ETNOGRAFIA DE NOVO, APRESENTANDO O QUE AS PESSOAS DISSERAM NO CASO DO JHS-KEMPER **SOBRE AMPS, NÃO SOBRE A HONESTIDADE DO JOSH ETC**
+28. The Kemper video was on brand and didn't really harm them
+29. Exemplos de gente pichando a JHS
+30. there's more people who go back and forth between tubes and digital than those who stick with analog, despite being tube or SS
+31. Comparison with pedals
+32. Tubes consume too much energy
+33. Electron doesn't know; what matters is how you voice (Fowler diz o mesmo); digital might be the missing ingredient
+34. NAM and FLOSS: modelling and profiling; null tests; NAM vs Kemper/QC/Fractal/Helix/ToneX/etc; against elitism, lowering barrier of entry
+35. the argument of "feel" surfaced as the tone became indistinguishable
+36. "nothing but tubes" keeps outsiders/children in their place
+37. tube amps are aspirational
+38. NAM users criticize selling profiles
+39. Fowler
+40. Tech as (artistic) enabler
+41. Tech: democratizing force (example: software)
+42. Software compared to gear
+43. Home Studio (software-based) has disadvantages
+44. Guitar software vs guitar hardware (tinkering and tweaking)
+45. software as a metonymy for technology/sometimes a person celebrates software features to see that be turned on its head
+46. Rock band as the model
+47. the home studio is the way to go in a world in which very few make a living as musicians
+48. Software flexibility
+49. Hardware tweakability
+50. Modding hardware vs modding software; ecosystem lock-in (presets, profiles); FOSS
+51. Divide between software and hardware, UI as mitigator
+52. Comparisons between the real thing and software emulation
+53. Argument compilation: nothing does what a tube does; digital is now indistinguishable; sounds like but feels different; the differences don't matter in practice
+

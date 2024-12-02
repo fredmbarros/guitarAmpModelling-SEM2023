@@ -84,7 +84,7 @@ Redditor 3 again:
 
 > I feel like I’m in bizarro land; every gear post with killer gear features a tube amp, and suddenly everyone is like “solid state amps are great!”[^iI5]: https://www.reddit.com/r/GuitarAmps/comments/1fhktq2/comment/lnf3res/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
 
-As we can see from this brief example, the dissent about these matters can go deep. Discussions like this one are legion on internet forums, with multiple threads on the same themes, overlapping and cross-referencing. However, If the general feeling about solid-state amplifiers is not the most favorable, their digital counterparts have had a more nuanced story.
+As we can see from this brief example, the dissent about these matters can go deep. Discussions like this one are legion on internet forums, with multiple threads on the same themes, often overlapping and cross-referencing each other. However, If the general feeling about solid-state amplifiers is not the most favorable, their digital counterparts have had a more nuanced story.
 
 Digital equipment that tried to produce a tone similar to tube amplifiers started to reach the market in the 1990s. The Boss GT100
 
@@ -136,7 +136,7 @@ Now that we have a better understanding of the place tube amplifiers occupy in t
 - against elitism, lowering barrier of entry
 	- curiously, the argument of "feel" surfaced as the tone became indistinguishable
 		- how quick the amp responds (SS is faster, but some people claim - in other contexts, meaning, when discussing only tube amps - that there is difference according to speaker - why not bring the speaker thing in this case too?)
-		- mushiness and compression (Quilters usually have a compressor/limiter built-in to match the feel of tube amps, at the same time the Two-Rock guy says he doesn't like compression and works to have his amps - usually considered state-of-the-art in terms of boutique tube amps - to compress as little as posssible (Dipped in Tone interview))
+		- mushiness and compression (Quilters usually have a compressor/limiter built-in to match the feel of tube amps, at the same time the Two-Rock guy says he doesn't like compression and works to have his amps - usually considered state-of-the-art in terms of boutique tube amps - to compress as little as possible (Dipped in Tone interview))
 	- isn't this "nothing but tubes" thing some form of keeping the outsiders/children in their place?
 	- creates the feeling of "when I grow up, I'll go tubes" - "As most players tend to graduate to tube amps from solid-state amplifiers, they (tube amps) can be known as more aspirational amplifiers – something that you 'graduate' to" (https://www.laney.co.uk/blog/solid-state-vs-tube-amps-why-be-forced-to-choose/#:~:text=Solid%2Dstate%20amps%20don%27t,way%20as%20a%20tube%20amp, Oct 4 2023).
 	- discussions that tap into the Open Source character of NAM to criticize people selling profiles:
@@ -184,7 +184,7 @@ Software can either be considered easier or harder to use depending on the user'
 
 The reason I have been treating software as a metonymy for technology is that in a sense software is where it all "happens" with regard to the digital amplifiers at the center of our discussion in this paper. Though it may sound like I am simply singing the praises of music software, what I actually intend to do in these initial sections is provide as much information as possible about the possibilities and affordances that these solutions offer so that it becomes clearer what is at stake when we start to see people put so much stress on their shortcomings. As we will see below, sometimes a person celebrates a certain feature only to immediately see that same feature be turned on its head and be considered a problem by an interlocutor.
 
-***The model in which most of the coveted music was created was the rock band in a studio [DESENVOLVER]
+***The model for most of the coveted music was created was the rock band in a studio [DESENVOLVER]
 
 But in the end what becomes clear here is how things are interconnected, making the whole picture of tech as enabler more complex: people want to record music and they can do it at home now, but the coveted equipment isn't suitable to home use. A studio would be needed, really, due to volume, acoustics and space needs. But then this would require time and financial resources. Studios are less expensive because tech-deflation also put more previously-high end gear within the reach of small/medium studios, but still one needs to block time to go to the studio. Contemporary life, has made it difficult for musicians to live off their music and most of them have day jobs, which makes blocking time much harder and making music late at night in a bedroom is often the only possibility, so the home studio is the way to go in a world in which musicians aren't signed to a big label to do a record and then have their time resources all employed due to that being their job. All things considered, when compared to "the model", tech-enabled home music-making bears the amateur mark from its birth. Due to the conditions in contemporary capitalism, it's not made by people whose efforts can be all concentrated on making it; it's not created in the same spaces as that one was and was created employing simulations of that equipment. Even if one has the same amplifier and mic'ed it with the same coveted vintage microphones of yore, was it recorded in Studio Two of Abbey Road studios (https://www.abbeyroad.com/studio-two), with its "warm acoustics"?...
 
@@ -225,7 +225,7 @@ Nevertheless, comparisons between digital versions and "the real deal" abound. F
 	- Middle ground, various arguments and different positions:
 		- "It sounds just like tubes, but feels different under the fingers"
 			- Countered by "I've never even experienced the real thing... so what it doesn't feel the same?" - I've never seen anyone say it feels different and it's better this way **and this is something interesting**
-		- "It doesn't sound just like tubes, but it doesn't matter in practice"
+		- "It doesn't sound exactly like tubes, but it doesn't matter in practice"
 			- Countered by "but what about how the player feels about it?", "The player plays better if they feel it the way they themselves like it"
 			- Also countered by the "Death by a thousand cuts" argument
 			

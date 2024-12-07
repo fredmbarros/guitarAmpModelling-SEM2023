@@ -1,0 +1,165 @@
+Plano do artigo baseado no reverse summary
+
+Epígrafe:
+"I like modellers, but my take on it from the beginning was this is a race to the bottom. And eventually somebody is gonna be making US$150 modellers that sound great and fantastic and then the cycle will repeat and high end gear will come back into fashion. (...) I remember in the […] late 90s, maybe early aughts... the multi-effects processor. Everyone had to have the newest multi-effects processor. People loved them and then all of a sudden it was not cool anymore and if you had one of those you were a 'noob'... a loser... Then you had companies that were taking Tube Screamer circuits and dipping them into paint, making swirls and selling them for US$500 and people were like 'oh, this sounds much better! The best pedal sound ever!' And then someone would reverse engineer, find out it was just a Tube Screamer... […] it’s just a cycle that keeps happening."
+
+Brian Wampler, Chasing Tone - Guitar Podcast about Gear, Effects, Amps and Tone, episode 482 - There’s a new sheriff in town - the Fender Tone Master Pro, October 11, 2023.
+
+Reverse summary
+
+12. Disclosure episode released (with episode thumbnail)
+13. Disclosure episode description (w/ LIMG image)
+14. "We did a blind test for a whole year and no one noticed"
+
+10. JHS Show uses an amp (Loud Is More Good)
+11. JHS Show demo signal-path
+
+15. Kemper substitutes for amp; JHS profiles ad (w/ image)
+
+(28. The Kemper video was on brand and didn't really harm them
+7. JHS story; biggest pedal collection
+8. JHS show: history, education, entertainment, mythbusting
+9. Josh's influence: Bad Monkey case)
+
+16. JHS's blind test touched on/fed off age-old discussion on guitars, amps and tone
+
+1. gear talk on the internet is unavoidable
+2. group formation on internet forums
+3. article based on forum conversations about JHS-Kemper, NAM, gain-staging for digital
+- do que eu estou falando? Estou falando de pessoas discutindo equipamento e dos valores que estão na base dessa discussão
+4. "gear talk on the internet" can reveal much more than futile consumerism
+5. retracing how idea aggregates take shape helps us see consensus and objectivity being collectively built in the discussions
+6. explain Callon/Latour/Orders of Justification
+- esse tema me parece interessante pq várias coisas se cruzam. Vou tratá-las experimentalmente como repositórios similares às ordens de justificação: vintage, audiófilo, price-conscious/no frills, pragmatic, details matter/death by 1000 cuts, history of the music/visuals/it’s a performance, I play better when I like my tone…
+- vou apresentar exemplos e temas ao longo do texto que nos permitem ver isso e no fim vou fazer um apanhado pra dar visão de conjunto
+    - experimentalmente também, eu não vou buscar a inserção dos atores. Só me interessam as ordens de justificação a que eles recorrem
+        - essas ordens mostram as possibilidades no horizonte contemporâneo para se pensar sobre amplificação de guitarra do ponto de vista do músico. É isso que me interessa.
+
+(In gear conversations,)
+25. tubes vs SS vs digital > analog vs digital
+26. two paradigms (characteristics of analog vs characteristics of digital)
+
+17. Tubes are old tech and considered the best sound
+18. Tube amps' shortcomings
+32. Tubes consume too much energy
+19. People still complain about these shortcomings (w/ examples)
+20. SS is its own thing; doesn't replace tubes
+21. Examples about SS ("SS is accurate, but guitarists don't want accurate" or SS wasn't ready for prime time when it came out)
+
+39. Fowler
+
+22. Many threads tubes vs SS, digital is more nuanced
+23. Brief history of modellers
+24. 3rd kind of amp: digital/analog SS hybrid
+
+27. FALAR AQUI DAS POSICOES E ENTAO ENTRAR NA ETNOGRAFIA DE NOVO, APRESENTANDO O QUE AS PESSOAS DISSERAM NO CASO DO JHS-KEMPER **SOBRE AMPS, NÃO SOBRE A HONESTIDADE DO JOSH ETC**
+
+29. Exemplos de gente pichando a JHS
+30. there's more people who go back and forth between tubes and digital than those who stick with analog, despite being tube or SS
+31. Comparison with pedals (tenho um usuário fazendo essa comparação tb, acho que é naquele reddit do SS is accurate)
+(Tubes consume too much energy - JA APARECEU E É RETOMADO AQUI)
+33. Electron doesn't know; what matters is how you voice (Fowler diz o mesmo); digital might be the missing ingredient (um usuário diz)
+34. NAM and FLOSS: modelling and profiling; null tests; NAM vs Kemper/QC/Fractal/Helix/ToneX/etc; against elitism, lowering barrier of entry
+- potencial disruptivo do modelo de negócios, já que é FOSS (discussão tão velha quanto o FOSS)
+38. NAM users criticize selling profiles
+
+CONCLUSÕES E GRANDES TEMAS
+
+Ordens de justificação:
+
+a) Tech as enabler/democratizing force
+40. Tech as (artistic) enabler - tema recorrente desde maker movement, foss etc
+41. Tech: democratizing force (example: software)
+45. software as a metonymy for technology/sometimes a person celebrates software features to see that be turned on its head
+
+c) interface
+42. Software compared to gear
+51. Divide between software and hardware, UI as mitigator
+- A questão da interface e de se lidar com menus em vez de simplesmente ligar e desligar os pedais - isso tem a ver o quanto as interfaces de usuário no software imitam o hardware (acontece no desktop, mas não tanto nos modeller que vc leva pro palco)
+- LEMBRAR DE FALAR DO PESSOAL QUE NÃO QUER MEXER EM MENUS. A INTERFACE É REALMENTE UM PROBLEMA
+- Como amplificar (transição para flexibilidade)
+
+b) flexibilidade
+44. Guitar software vs guitar hardware (tinkering and tweaking)
+48. Software flexibility
+- NO VÍDEO DO Beato com shill e Honorado eles falam que vc tem que ser um tweaker
+49. Hardware tweakability
+50. Modding hardware vs modding software; ecosystem lock-in (presets, profiles); FOSS
+
+Pode parecer que estou falando só bem do software, mas basta passar cinco minutos sozinho com um pela primeira vez que vc vai ver que tem uma curva de aprendizado bem steep e que nem todos os conhecimentos do mundo analógico se transferem para o digital. Provas disso são a quantidade de postagens em fóruns e vídeos no YouTube ensinando a usá-los ou, mais importante, o fato de que vender presets virou um business. 
+
+d) o som
+52. Comparisons between the real thing and software emulation
+53. Argument compilation: nothing does what a tube does; digital is now indistinguishable; sounds like but feels different; the differences don't matter in practice
+- "It may just be a placebo. *It totally could just be in my head, but I don't really care.* That's what matters. If I like the way that I sound and I feel good when I'm playing, I'm going to sound better." Rhett Shull (https://youtu.be/873F0dHl_ME?si=8WBOmsAAxnuiSFW4&t=1263 21:03)
+
+The “everybody is wrong” kerfuffle
+
+https://youtu.be/gJ59h7xfvdI?si=-nyB5mvvPLHxKm8j
+
+O que esse vídeo mostra é como pessoas get hung up on number and normative directives when they should be “using their ears”. Use your ears has become a cliche that some throw against others and I don’t want to take sides here, but it’s hard not to notice that that’s how people had been behaving for the most part of the electric guitar’s history. Claro que sempre existiu gente que sabia de elétrica e dava instruções, mas quando se olha a gravação dos grandes discos, o que mais se vê é pura experimentação e tentativa e erro, um contato direto com os aparelhos e uma relação de propriedade e curiosidade com a coisa.
+
+O que pode ter mudado?
+Pontos para discutir:
+- muita insegurança em relação ao que se ouve e o que pode existir mas não se está ouvindo porque não se tem experiência. Será então que isso é um efeito da democratização? Mas e os caras doidoes no estúdio experimentando com sintetizador, por ex? É só o efeito das drogas? Tem tb o fato de que tinha um produtor meio que como “adult in the room”
+- Será que o combo computador-software como mediação, que é black box por excelência, potencializa essa relação quase fetichizada, como um macaco olhando o monólito do 2001?
+- Tem o aspecto da relação menos direta. “Turning knobs”, pra usar tb outro clichê, é uma coisa real em termos da relação direta com a coisa (não à toa tanta gente abandona Hélix e afins dizendo que sentia falta disso)
+- Será que tem “fórum culture” mesmo? Um monte de gente procurando assunto e procurando polêmica 
+- No fundo é tudo som. Por que não acreditar nos ouvidos?
+- “Up until this point, people had just been setting the digital input level on the plugin by ear. And just dialling something that sounds good enough. Not the most rigorous solution but it mostly works”. (3:52 do video Everybody is wrong)
+- o ponto central do cara do everybody is wrong é que digital tb tem noise floor; isso não é algo só do analógico, como tanta gente afirma ser
+- Comentários ao vídeo no YouTube:
+- @ZultyBoi: So you’re telling me it’s only 2024 and people have already forgotten how to avoid high noise floors lol incredible
+- @artemyeden: I’m not a qualified audio engineer - just a producer. However, I used to think that it’s obvious: the more clean boost you got = the more depth (resolution) and more signal/noise ratio you achieve within the interface. It’s strange that someone claims the opposite as a community consensus, because all the A/D theory proves that. Thank you for that video. Musicians possess a humanities mindset rather than a technical one, so there’s a lot of honest misconceptions like this - it will be very helpful.
+
+- A discussão na verdade não é sobre como soa ou sobre se vc sente como bom ou ruim, mas sobre o quanto se chega perto do benchmark
+- A paranoia é tanto que sequer se confia no que se ouve do null test; vc precisa colocar o null test num espectrômetro 
+- Exemplo do estetoscópio que tem a medida pro analógico e outra pro digital 
+
+
+Falta de personalidade do digital, sons off the shelf, similar ao que se fala de presets em sintetizadores. Beato e Oto falam “todo mundo usando o mesmo som de guitarra pq é o mesmo amplificador”. Capture resolve isso (ver conversa sobre capture vs modelling no FB)
+- No video do Vertex sobre The Future of Tube Amps ou algo assim (é com o cara que trabalha na Victory Amps) ele faz a comparação de que o modeller é como olhar uma foto ou vídeo e o amplificador valvulado é como ir ao lugar. Ele diz que vc pode curtir os dois, mas que são coisas diferentes.
+- dificuldades com harshness/sizzle
+- No entanto, há as affordances próprias do digital: Prog metal tem características que se favorecem de modelling
+
+b) the reality of musical labour - where it all comes together
+43. Home Studio (software-based) has disadvantages
+- quem tem tempo para ficar tweaking?
+46. Rock band as the model
+47. the home studio is the way to go in a world in which very few make a living as musicians
+mesmo para os pros: Falar de silent stages, in-ears e da pressão por stage volume mais baixo (entra a questão da conveniência do digital) tem um video do JNC sobre ter voltado a usar amps no palco
+
+
+
+conclusões e temas transversais
+
+E se o artigo fosse “gear talk on the internet: the case of guitar amplifiers”? O vídeo do Beato “playing my dream rig” é uma base boa pra discussão do artigo 
+- como as pessoas se engajam tanto nisso. Não é real. Vc vê o Beato botando a dream rig dele e na sala devia ser uma cosia incrível, mas pra quem assiste no YouTube é só um bom som de guitarra, como o de milhões de vídeos feitos com modellers. 
+- If you wanna move people you got to move air: mas isso é pro ao vivo (e mesmo assim, o PA move ar
+- A quantidade de reviews de gear que dizem pro pessoal usar headphones já mostra como as mediações estão lá e ngm tá prestando atenção a elas
+- E a internet produz um efeito de verdade 
+- Tem o vídeo do JHS sobre reviews serem honestos 
+    - Discutir a piração de que o YouTube vai te dar uma noção real do som de algo - tem o vídeo do JHS sobre pedal reviews being honest 
+
+Agora o debate do everyone is wrong, discutindo o nível de sinal que vc manda colocando o ganho da interface em 0. 
+- já tem gente falando em “this never ending debate”
+- E aí algo a se considerar é que talvez tenha aí mais uma vez a velha linha separando cultura e natureza. Volta e meia a gente vê processos de engenheiros de som ou músicos e nós admiramos sobre como as pessoas usaram tal coisa de maneira não convencional e como isso produziu um som próprio etc. No entanto qdo se trata desse tipo de processo, qdo estamos falando de processamento de sinal, aí parece que estamos firmes no terreno da natureza e que não tem espaço para maneiras heterodoxas de fazer pq “it’s just physics”. Mas no estúdio do tempo analógico sempre houve variação. Sempre houve o cara que fazia assim e o que fazia assado, o que preferia tal equipamento e o que preferia tal outro equipamento. E ambos conseguiam resultados que foram copiados por outros por serem bons. Basta assistir a dois ou três vídeos do Mixing with the Masters que vc vai ver isso acontecendo. E eu não quero aqui bancar o cara de humanas relativista que não entende nada das ciências hard e que diz que vale tudo. Longe de mim. Existem elementos da ordem da física aí mesmo agindo e, conhecendo eles, podemos tirar um optimal signal. A questão é que esse optimal signal é marcado por uma série de elementos que poderíamos definir como “subjetivos”. Não necessariamente precisamos (embora quase sempre queiramos) da melhor SNR. Ou, para colocar de maneira mais eloquente, muito antes desse debate começar com aquele camarada que sugeriu o 0 e que todos os YouTubers saíram atrás, esses mesmos YouTubers já estavam tirando sonzão, fazendo propaganda desses equipamentos e sendo elogiados e perguntados sobre como tiravam aquele sonzão. Isso já me basta como prova de que esse debate está longe do puramente técnico. 
+
+Fechar com uma discussão sobre por que as pessoas se engajam nessas conversas
+- entretenimento
+- Vontade de se conectar (no fundo é como qq outra rede social e o fato de que brigas surgem só mostra como podia ser política, mas é guitarra)
+- Necessidade de aparecer como smart
+- Consumismo (discutir GAS)
+- E aí entram os cork sniffers e os ricos que podem se dar o luxo de pagar 1k por uma diferença de 5% melhor 
+
+
+35. the argument of "feel" surfaced as the tone became indistinguishable
+36. "nothing but tubes" keeps outsiders/children in their place
+
+30. there's more people who go back and forth between tubes and digital than those who stick with analog, despite being tube or SS (JA APARECEU LÁ EM CIMA E AQUI VAI SER RETOMADO COMO CONCLUSÃO)
+37. tube amps are aspirational - transição para vintage
+
+O tema do vintage é algo que precisará ser tratado em outra ocasião pq mostra como essa discussão reflete algo muito mais amplo (lembro até do Hayden white citado pelo José Reginaldo)
+Falar de vintage
+- exemplo do PAF não poder ser duplicado hj em dia no Dylan Talks Tone
+- No início desse vídeo o Sean Hurley fala de como o GnR era uma ruptura em relação ao hair metal, sendo mais earthy, vintage-y etc. https://youtu.be/62Iy5fU4_y8?si=BKc69ehDc0wzGD-p

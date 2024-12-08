@@ -191,6 +191,15 @@ Of course, the home studio has its limitations too. Acoustics can be a big issue
 44
 Guitar software and hardware
 Software can either be considered easier or harder to use depending on the user's skill and mindset, but it offers a kind of flexibility that hardware rarely achieves–granted, as long as one is working within the constraints of what the product's maker envisioned.[^turingComplete] Software is not as inherently constrained by physical properties such as space and power demands, so, for example, it is common knowledge that tube amplifiers deliver their most sought-after sounds within a certain volume range. This means that one needs to deal with loud sounds to achieve their desired tone certain volume range to deliver its most sought-after sounds software can be made more tweakable: changing the speaker of a software amp to get a different tone can be done in one or two clicks or, in the worst case scenario, through a download followed by the installation of some form of impulse-response or similar technology.[^impulseResponses] A hardware analog amp, by its turn, requires that one buys the speaker and actually goes through the process of removing the old speaker, inserting the new one, soldering connections etc., in a process that usually requires specialized knowledge and includes potentially life-threatening procedures. 
+Software é flexível [fazer referência ao ponto {1} no texto]
+- mas as pessoas normalmente não têm como mexer nele
+    - em amplificadores (analógicos) elas mexem
+- no digital (software (se não for foss) e amp), vc está at the mercy of the maker
+    - claro que IRs podem ser usados em qq coisa, mas o mercado de presets/capturas e a comunidade criam lock-in no ecossistema de cada um
+        - tem alguma fala de youtuber (talvez Rhett Shull) de que algum de que o Kemper, por permitir que as pessoas capturassem seus próprios amps, fez o produto bombar (agora vai achar isso, talvez tenha sido no Dipped in Tone)
+        - o NAM oferece tudo isso e ainda é gratuito
+- NAM é exceção porque é FOSS - embora seja muito mais difícil que mexer num amp, mas ao mesmo tempo vc não corre risco de vida
+- NAM quebra com tudo isso
 
 45
 The reason I have been treating software as a metonymy for technology is that in a sense software is where it all "happens" with regard to the digital amplifiers at the center of our discussion in this paper. Though it may sound like I am simply singing the praises of music software, what I actually intend to do in these initial sections is provide as much information as possible about the possibilities and affordances that these solutions offer so that it becomes clearer what is at stake when we start to see people put so much stress on their shortcomings. As we will see below, sometimes a person celebrates a certain feature only to immediately see that same feature be turned on its head and be considered a problem by an interlocutor.
@@ -246,3 +255,17 @@ Nevertheless, comparisons between digital versions and "the real deal" abound. F
 
 
 [no início da seção technology as enabler, eu escrevi: "Democracy and its advances and reverses throughout History form a complex theme that obviously cannot be dealt with here,[^deibert] so let me limit my scope right from the start. As stated above, I am particularly interested here in forces that enable people to acquire knowledge and broadcast what they make with that knowledge. More specifically, I want to investigate some of the possibilities for people to get their artistic aspirations in motion and eventually released in the current world [RIDÍCULO, ARRUMAR UMA DEFINIÇÃO MELHOR]." - RETOMAR ESSES PONTOS AGORA NA CONCLUSÃO PARA PODER FECHAR DISCUTINDO ISSO: "In principle, an increase in the circulation and the variety of ideas and artistic works would eventually feed back into more general democratizing processes such as demands for rights and representation or struggles against oppression.[^darnton]]
+
+
+FOR THIS PRESENTATION, I’D LIKE TO END HERE AND ASK WHY PEOPLE ARE MORE OPEN TO DIGITAL THAN TO SS
+PERHAPS DIGITAL IS A TECHNOLOGICAL BREAK *AND* AN AESTHETIC BRIDGE
+ALSO BECAUSE MANY OTHER STUFF IN OUR CULTURE PUTS SO MUCH TRUST EVEN IN DIGITAL
+It’s interesting to observe that modelling, which is the most modern, exists precisely because people want the old stuff without the problems of the old stuff: reliability, weight, price
+and some people want exactly the old stuff, with all its shortcomings
+there’s an understanding of it carrying its affordances in the whole package perhaps
+but then new problems arise: does it really sound like the old stuff? the interface is a problem. You can’t fix digital stuff etc.
+As I said earlier about the Roland jazz chorus,
+it was its own thing
+it was modern and hip until it wasn’t anymore, just like the DX7, the Linn drum machine or chorus pedals… 
+- …all of which have made or are making a comeback
+Exemplo do som do polyphia

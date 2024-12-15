@@ -1,0 +1,364 @@
+> "I like modellers, but my take on it from the beginning was this is a race to the bottom. And eventually somebody is gonna be making US$150 modellers that sound great and fantastic and then the cycle will repeat and high end gear will come back into fashion. (...) I remember in the […] late 90s, maybe early aughts... the multi-effects processor Everyone had to have the newest multi-effects processor. People loved them and then all of a sudden it was not cool anymore and if you had one of those you were a 'noob'... a loser... Then you had companies that were taking Tube Screamer circuits and dipping them into paint, making swirls and selling them for US$500 and people were like 'oh, this sounds much better! The best pedal sound ever!' And then someone would reverse engineer, find out it was just a Tube Screamer... […] it’s just a cycle that keeps happening."
+
+Brian Wampler, Chasing Tone - Guitar Podcast about Gear, Effects, Amps and Tone, episode 482 - There’s a new sheriff in town - the Fender Tone Master Pro, October 11, 2023.
+
+12
+Then, on December 20, 2022, JHS released an episode of the JHS Show with the following thumbnail:
+[THUMBNAIL DO EPISODIO I'VE BEEN LYING TO YOU]
+
+13
+The whole video is a stunt, as if Josh had gone mad, locked himself in the video production room with two employees, and revealed to the world that they had been using a Kemper Profiler for the show, while the Loud is More Good amp was merely a prop.
+[figura loudIsMoreGood-zoado]
+
+14
+At 6:20, Scott shows the amp and states "We've been just... not really turning it on... We turn it on, but it's on standby. If you've paid any attention, like, you (sic) see all the knobs are down and stuff 'cause we got lazy". Before that, around 5:06, the video shows in red letters on a black background: "We did a blind test for a whole year and no one noticed".
+
+10
+Scott's huge pedal collection is featured prominently in virtually all of his company's videos, with plenty of demonstrations and comparisons between the pieces of equipment discussed and notoriously sparse plugs of his own products. He also possesses a substantial collection of amplifiers, but except for a few specific videos, those are less prominent. However, since electric guitars need to have their signal amplified, the usual procedure of a guitar going into the pedals that then go into an amplifier is adopted most of the time. More specifically, in JHS's videos from September 2021 to December 2022, we see the company's own "Loud is More Good", a Fender-style[^refDescricaoLoudIsMoreGood] tube amplifier designed by American maker Milkman Sound for JHS, as the amp of choice.
+[SCREENSHOT]
+
+11
+In the screenshot above we see cables getting in and out of the equipment displayed, but we cannot know for sure the whole signal path, as the framing naturally leaves a lot out of the picture. For example, cables usually utilize similar plugs on both ends (though sometimes one can be straight and the other L-shaped), so we could wonder whether the cable leaving the white pedal on the left (guitar pedals are connected right to left, so that would be the last pedal in the signal chain) is really going into the amp at the forefront, given that the plugs do not match. Even then, this could be a custom-made cable sporting different plugs for whatever reason. Anyway, all the sounds we hear appear to be passing through the Loud Is More Good amplifier, which, as with any other guitar amplifier, adds its own color to the sound. Scott demoed his own and various other pedals through this setup, showed the differences between Phasers, Flangers and Choruses, made tests showing how a vintage 60s Shin-Ei Uni-Vibe sounds compared to modern versions of that circuit, and put a Klon Centaur (a pedal that as of November 2024 can be found listed for around US$8000.00 on the used market) side-by-side with supposedly lesser overdrives for the audience's appreciation. 
+
+
+15
+The Kemper Profiler is a device that can capture (profile) an amplifier's sound, like a digital snapshot of the amplifier in the state it was when captured. This allows the Kemper to substitute the amplifier, either requiring a speaker or another outlet to be heard and the video itself is a huge ad for the profiles that JHS was releasing at that moment in a joined effort with profile maker Tone Junkie:
+[figura kemperProfilesAd]
+
+28
+Now that we have a better understanding of the place tube amplifiers occupy in the guitar space, we can see what is at play in the JHS-Kemper affair. JHS's "blind test" is actually perfectly on-brand, as if they decided to do a year-long "Can You Hear It?" episode with their entire audience, but without the audience knowing--let alone consenting to it. Even the video's slight troll-like tone fits the JHS Show's schtick and may have actually helped prevent harming the company's reputation from being discredited--as if people considered that it was their way of doing entertainment--, although once in a while someone may bring this up:
+
+7
+JHS Pedals is a company specialized in making guitar pedals. Its founder, Josh Scott, started fixing and modifying (modding) pedals for himself and for friends around 2007. Word spread out and he started selling those under the name JHS Mods, eventually getting into making his own pedals. At that time, Scott was making a living off flipping gear, that is, buying and selling used equipment, and slowly built a substantial pedal collection that is currently believed to be the largest in the world.[^JhsPedalCollectionLargest]
+
+8
+Scott sometimes defines himself as a pedal historian[^JhsPedalHistorian] and educator[^videoSobreOJohnCordy] and many videos in JHS's channel deal with the history of equipment, people and companies important in guitar history or explain and demonstrate guitar effects, though rarely getting into actual product demos. The channel often produces videos of a mythbusting character too, like the "Can You Hear It?" series, in which blind tests comparing famous pedals to inexpensive alternatives are performed. These tests involve someone from the crew, but the audience can also test itself--though it does not get to interact, as the whole procedure involves only the tester knowing which is which. 
+
+9
+Although not among the largest in numbers,[^JHSPedalsChannelSize] the channel is particularly influential in the guitar space, which can be attested by an interesting event the related to one of the mythbusters-style videos: on March 13, 2023, an episode of the JHS Show compared the inexpensive DigiTech Bad Monkey overdrive pedal to high profile pedals like the Klon Centaur, the Tube Screamer and even JHS's own Morning Glory, suggesting that the Bad Monkey could produce nearly identical tones to those. This sparked massive interest in the pedal, whose used prices skyrocketed in the subsequent weeks, jumping from its typical resale value of $50–$60 to some listings reaching US$1,000. A few people suggested that Scott was doing a "pump and dump scheme" with Bad Monkeys and, whatever one's opinion on the case is, just the effect of such a video on the gear market is enough to show Scott's influence.
+
+
+16
+JHS's "blind test" fed off a never-ending discussion around electric guitar tone and amplifiers. For decades now, people have been arguing if an adequate tube replacement has come along and what trade-offs it brings.[REFERENCIA] A brief digression into the position currently occupied by amp modelling and profiling devices can thus help us better see what the JHS-Kemper affair has to offer.
+
+1
+Anyone who plays electric guitar these days has very likely stumbled upon some YouTube video showcasing guitar equipment. Looking it up ourselves or having it shown to us either by a friend or by "the algorithm", talking about gear on the internet is all but inevitable for musicians these days. In fact, it's safe to say that it has become a fundamental part of forming one's opinions. , like when a salesperson showed me an unknown (to me) guitar in a store and replied "yeah, go look it up one the internet before making a decision" after I said I was just looking and would want to think a little more before buying anything.
+
+2
+In a sense, internet forums such as The Gear Page, music-related Facebook groups, Instagram posts or YouTube videos and their comments section are instances where groups form[^groupFormation] around reverence or disdain for certain pieces of equipment.
+
+3
+In this article, I will focus on online discussions about digital modelling and profiling of guitar amplifiers, presenting three fairly recent events and exploring the controversies that arose from them: first the disclosure by a famous YouTuber in the guitar space of having covertly used a digital amplifier during gear demonstrations; then the advent of a piece of free and open-source software that some users claim rivals expensive proprietary solutions; finally, I would like to address an ongoing discussion about gain-staging when using guitar amplifier software.
+
+4
+esoteric and nerdy as these themes may seem, what really matters here are the arguments that people mobilize to support their claims. These arguments render visible broader implications and assumptions that in turn offer us a glimpse into what music-making has become in the mid-2020s. In other words, my underlying assumption is that "gear talk on the internet" can reveal much more than futile consumerism. People engage in these conversations to the point of fighting with each other and the number of video reviews, thought pieces and forums posts is staggering by all measures[numbersOfGearTalk].
+
+5
+Similarly to Callon's (2006) work on technological controversies, I followed online discussions on the internet forums The Gear Page and TalkBass, on YouTube comment sections, and in the following Facebook groups: "Neural Amp Modeller (NAM)", "Neural Amp Modeller (NAM) Users (Unofficial)", "Neural DSP users group", "Bass Players", "Tube Guitar Amplifiers", and "Line 6 Helix Family User Group OFFICIAL and ORIGINAL". I watched how the participants in those groups slowly gathered around clusters of sometimes seemingly incongruent arguments, jumping from physics and psychoacoustics to financial conditions, age, or the effect of an instrument's appearance on their playing. These idea aggregates usually combine different orders of justification (Boltanski and Thévenot 1999) and retracing how they take shape helps us see consensus and objectivity being collectively built in the very process of discussion (Latour 2005, 27, 31).
+
+6
+[BREVE EXPLICAÇÃO DE COMO CALLON/LATOUR TRABALHAM E DO QUE SÃO ORDENS DE JUSTIFICAÇÃO PARA BOLTANSKI/THÉV]
+- esse tema me parece interessante pq várias coisas se cruzam. Vou tratá-las experimentalmente como repositórios similares às ordens de justificação: vintage, audiófilo, price-conscious/no frills, pragmatic, details matter/death by 1000 cuts, history of the music/visuals/it’s a performance, I play better when I like my tone…
+- vou apresentar exemplos e temas ao longo do texto que nos permitem ver isso e no fim vou fazer um apanhado pra dar visão de conjunto
+    - experimentalmente também, eu não vou buscar a inserção dos atores. Só me interessam as ordens de justificação a que eles recorrem
+        - essas ordens mostram as possibilidades no horizonte contemporâneo para se pensar sobre amplificação de guitarra do ponto de vista do músico. É isso que me interessa.
+
+(In gear conversations,)
+25
+Despite the fact that I have been dwelling on the split between the analogue and digital realms and how it pertains to our discussion, I'd like to suggest another categorization. This perspective does not render the other obsolete, but rather adds another layer to the discussion: tube amps, solid state amps and digital modelling/profiling amps. For us to be able to keep up with the arguments that we will see some users elaborate below, a basic, working understanding of these three types can be useful.
+
+26
+## Three camps, two paradigms:
+- we can talk about two paradigms:
+		- the traditional paradigm: tube amps, hard (heavy) to carry around, knobs, plug and play, direct control of defined parameters (which are in principle discrete, but there can be a lot of interaction between them when you dig), more flexibility (easier) in terms of how adjust it on the fly (one feature of tube amps is that they change their tone according to temperature and energy source, for example);
+		- the digital paradigm: software emulation (a brief discussion about the word "emulation"), having to scroll through (endless) menus, harder to tweak on the fly, at the same time tone is always the same, so it's predictable/reliable, light to carry around - but many times you don't carry because they are in computers at home that "bedroom guitarists" use (vs pros, who graduate to tube amps - but the A-level pros (who play with big acts) have been using (and publicizing) more and more modellers for their dependability and predictability). The solutions for gigging musicians try to bridge the gap between the immediacy of hardware solutions and the main selling points of the digital ones.
+
+17
+Based on radio equipment from the first half of the 20th century, guitar amplifiers employing vaccuum tubes are the oldest type of such device, at least among those still in use. Their most significant characteristic is that, as one increases the gain, they clip the signal in a non-linear fashion, adding what became known as *harmonic distortion*. This behaviour is usually considered what makes the sound of those amplifiers more pleasing.[REFERENCIA]
+
+18
+Despite their sought-after tone, tube amps have their shortcomings. In the 1960s, most venues' Public Address (PA) systems--if they had one at all--were dedicated to the voice, and musicians had to make themselves heard through amplifiers on stage.[^pegarReferenciaNasAbasDoTelefone] Under these conditions, obtaining a clean sound was not always possible and distortion, "harmonic" or otherwise, is not necessarily always desirable. To ensure more headroom (the range of volume before distorting), or even to get louder when distorted, amplifiers became bigger--and as a consequence heavier and harder to lug around. Nowadays PA systems amplify the entire band and guitarists can use lower-wattage tube amplifiers with microphones placed in front to capture their sound, but many players say that, to get "their tone", bigger amps that "move air" are necessary.[^referenciaMoveAir] Even then, tubes are fragile and need to be replaced periodically, making those amps in need of constant care and maintenance. Finally, tubes can behave erratically depending on external conditions such as temperature or electric current, making them inconsistent.
+
+32
+		- another interesting point is that I've never seen anyone mention the waste of energy that tube amps represent:
+			> "Most of the energy loss in classic amp designs occurs because of the need to keep the power tubes operating in their linear range. To function optimally, tubes need to be at a certain temperature–this is why you need to warm up a tube amp before you play it. Most of the power draw of tube amps goes towards keeping the tubes hot, as opposed to amplifying the guitar signal.
+			> Class D amps function at around 90% efficiency, meaning that only about 10% of the energy put into them gets released as heat. Classic guitar amplifiers convert anywhere from 70% to 90% of the energy they draw from the wall into heat." (https://georgedyermusic.com/2016/11/24/how-do-quilter-amps-work/ Oct 4 2023)
+
+19
+To this day, these shortcomings are still voiced by guitarists. To some, they are part of the deal, while for others they are deal breakers:
+EXEMPLOS DE GENTE RECLAMANDO DESSES PROBLEMAS COM VALVULADOS - **INCLUIR OS QUE DAÍ PARTEM PARA SS OU DIGITAL**
+
+20
+Following previous attempts by various makers of using transistor-based circuits instead of tubes--some of which with certain degree of success--, in 1975 Roland introduced the Jazz Chorus 120. Surely the first and maybe the only solid-state amplifier to truly achieve a status of its own, the JC120 was no longer seen as a lesser version of the tube amps that dominated the music industry.[^artigoHistoriaAmpsGuitarWorld] In hindsight, the Jazz Chorus obtained a place for itself, which means that it did not replace tube amps. Each had its own sound, its weaknesses and strengths and its fans and detractors. For instance, on the r/GuitarAmps forum of the discussion website Reddit, a redditor (that's how Reddit users are called) asked "how come solid state amps never took off like tube amps did?", to which another redditor replied:
+
+21
+> Yeah I think the whole thing OP (Original Poster) is missing is... Solid State amps did take off in the 80's and 90's. I was just a kid, but no one I knew had a tube amp. The issue was most of them sounded like shit compared to tube (with basically the amps you've mentioned being the exception).
+> I'm not a solid state hater either... my first amp was an ss Fender combo and it sounded amazing at normal bedroom or jamming volumes. Sounded like shit cranked but it was plenty loud as fuck anyway at 2-3... second loudest amp I've ever owned, the other being a ss Sunn Beta (also a badass solid state). I forgot the model name of the Fender unfortunately but it was a truly great amp with such nice distortion and reverb. Jonny Greenwood uses a ss Fender, or did for years at least.
+> Anyway I just love and prefer how tube amps respond, sound, feel... obviously it's a difficult thing to replicate and I think the best sounding solid states are the ones that are they're own beast and not necessarily trying to replicate the tube sound.[^notASolidStateHater]
+The following response to the OP generated some interesting subsequent replies:
+> I think originally, amp makers were trying to make the guitar sound accurate. Guitarists didn’t want accurate, they wanted awesome. Cranked tubes add high end because it’s easier to push than lower frequencies. They compress because of power sag and response time. They are large and can vibrate so feedback tends to be resonant. It’s almost like a part of the instrument now.[^interestingInteractions]
+Another redditor replied to this (Reddit has a peculiar structure in which replies can be nested as people go on responding to responses) agreeing and adding:
+> This coupled with one thing most people tend to forget, early quality control on ss amps wasn't great and they weren't quite ready to be pushed out on to the market yet. Most failed a huge, flaming and epic death. They were inconsistent junk, no matter where they were in the price structure of the line and gave ss the junk status or cheap status it still has today in guitar amps. They just weren't reliable at all when they came out and they were pushed out too quickly and killed their own long term potential in the market.[^iI2]
+Which by its turn got the following reply from Redditor number 3:
+> Yep. And they demonstrably don’t sound as good. Even as the tech developed. Like, regardless of the reasons, a Valvestate just doesn’t sound as good as a JCM800. It just doesn’t.
+> Now, solid state will sound as good some day (and high-end modeling stuff might already be there), but historically pretty much every production solid state amp has been inferior to any decent tube amp.
+> Edit: come on; you all know what I’m saying. Yes, Roland, jazz chorus is a good app (sic), etc. But if you look up lists attempting to rank the best amps ever made, on pretty much every list, 9 of the 10 amps listed are going to be tube amps. And that’s for a reason.[^iI3]
+Redditor number 4:
+> this is simply untrue, “sound better” is subjective and solid state amplification wins in almost every objective measure such as cost, reliability, headroom, amount of gain, transparent amplification + eq control, then start including on board fx (although there’s an argument to be made abt analog vs digital fx) and your point is pretty weak
+> tube responsiveness is like the only thing that is “better” but even then it is just because guitarists have learned to adjust their dynamics and playing style around tube amps [^iI4]: https://www.reddit.com/r/GuitarAmps/comments/1fhktq2/comment/lndanxc/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+Redditor 3 again:
+> I feel like I’m in bizarro land; every gear post with killer gear features a tube amp, and suddenly everyone is like “solid state amps are great!”[^iI5]: https://www.reddit.com/r/GuitarAmps/comments/1fhktq2/comment/lnf3res/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+
+39
+People who know nothing about transistors:
+https://www.tdpri.com/threads/quilter-amps-what-are-your-thoughts.953963/post-9127734
+The thing that bugs me about all the posts that say what you can't do with transistors is that my guess is that those who are saying that *probably* don't really know anything about how transistors work. I suppose they might... but anyone who knows how transistors work likely would NEVER say such things.
+True... if you take a tube amp and replace each stage with a similar transistor-based stage then what you get will NEVER sound like what a tube amp sounds like. And that is EXACTLY what happened with the very first solid-state amps... and why they sounded bad. 
+But... transistors are very versatile building blocks and we can put millions of them on a chip and create some very complicated things. And engineers understand precisely how to do these kind of things. And that is what Quilter has done. They use millions of transistors to create circuits that come pretty close to having the same overall input-output function of a tube amp... Is it perfectly the same? Probably not. Is it pretty close? Probably. Will some players be OK with it and others not? Yes. It will depend on the player as well as the job - and its various constraints - that the player is trying to accomplish.
+I've never played a Quilter amp... nor have a played any other recent solid-state amps. I play either tube amps (that I've designed and built myself) or I use a modeling amp (which also use millions or billions of transistors to mimic tubes in a very different way... but the main idea is the same - replace a circuit with a number of tubes that you can count on both hands with millions or billions of transistors). But how do I know that solid-state amplifiers have this potential? Because I've been teaching circuits and electronics at the university level for over 20 years. It is very easy to underestimate what *can* be done with transistors - especially if your view is colored by the many horrible SS amps that have been made over the decades. But just because someone built the pinto does not mean that someone else can't build a Ferrari out of pretty much the same technology.
+So... the Quilters probably sound pretty good (because the guy who designed them took a very different approach from what led to the original SS amps) and he has a pretty good track record as an excellent analog circuit designer)... but if you don't like them that is fine - just don't say that fundamentally you can NEVER design a SS amp that sounds good.
+(mfowler314) - Oct 4 2023
+A few posts below:
+Ian T said:
+This is why 40+ years later, tube amps continue to prevail in most professional rigs. Tubes and transistors sound different, period. Digital modeling has made better progress than analog solid state, however, but that's another topic.
+Fowler:
+You are partly right here. Tube amps do still prevail but that is not based solely on the sound of the current generation of SS amps. There are many reasons that tube amps are still preferred by many - myself included (I like them because they sound good, they are simple, and I can design, build, and modify them to my heart's content). A big part of it is that early SS amps were so horrible... and that makes lots of people (yourself included) constantly imply that *no* SS amp can ever sound good... period. It is a culture thing based on decades of bad SS amps. But you have to admit that today's SS amps sound nothing like the old ones... they keep getting better. And we are at the point where some players (and not only bedroom players) look at all the factors and decide that a SS amp meets their needs.
+
+22
+As we can see from this brief example, the dissent about these matters can go deep. Discussions like this one are legion on internet forums, with multiple threads on the same themes, often overlapping and cross-referencing each other. However, If the general feeling about solid-state amplifiers is not the most favorable, their digital counterparts have had a more nuanced story.
+
+23
+Digital equipment that tried to produce a tone similar to tube amplifiers started to reach the market in the 1990s. The Boss GT100
+
+24
+There is a third kind of amplifier that occupies sort of an intermediary position in this discussion: hardware digital amps. These are hardware amps that employ digital technology in some of its components. What the digital part is doing varies considerably from model to model, some being all analogue with only a digital reverb, while others have a great deal of their tone produced by their onboard computers. Many are in fact entirely *solid-state*, employing both digital and analogue tone-producing means, while others are tube amps with digital technology added (like a load box and cabinet simulator,[^loadBoxCabSim] for example), often including all three technologies spread across different parts of the device.
+
+27
+FALAR AQUI DAS POSICOES E ENTAO ENTRAR NA ETNOGRAFIA DE NOVO, APRESENTANDO O QUE AS PESSOAS DISSERAM NO CASO DO JHS-KEMPER **SOBRE AMPS, NÃO SOBRE A HONESTIDADE DO JOSH ETC**
+
+
+29
+> The folks going all in on taking great umbrage with misleading titles, clickbait thumbnails, or manufactured controversy, must not follow Josh or JHS on YouTube.
+> Either that or they forgot the year long Kemper deception & subsequent "we're smarter than all y'all" videos, the Klon reverb listing, the Bad Monkey ordeal, and any number of other things JHS has done purely for attention & publicity.[^Allen_Overby_JhsNoFacebook]
+> Brett Huhn
+> If it’s just a silly thing, then why did they take so long to spill about it? Yeah the fish stinks from the head. After years, I still only have one JHS pedal. It is fun to read the group posts here.
+> You defend the indefensible when you defend the Elephant in the room. It’s like, OK, you can lie to me about small stuff when you’re selling me something and as long as you don’t lie to me about the big stuff then I’ll keep buying your gear. ￼So then Ya want to feel better about yourself and your own failings by convincing others to accept the tiny little lie as well …
+> Nah man believe what you want, but don’t expect folks to hop on your bandwagon. I trust their videos not one bit.[^dontTrustJHS]: https://www.facebook.com/share/p/15KcFpMKXr/
+
+30
+	- the (classic) divide analog vs digital doesn't hold here: SS is analog and people say a SS amp isn't on par with a tube one
+		- there's more people who go back and forth between tubes and digital than those who stick with analog, despite being tube or SS
+
+31
+	- And what about pedals?
+		- people are a little less picky with regard to pedals - pedals are also SS and are used "to push clean, 'pedal platform' (tube) amps into overdrive" - but sometimes they are themselves introducing distortion
+		- some people will still say "I'd rather use a boost", but at the same time it's common to see people praising overdrive pedals for "behaving like a tube amp"
+
+33
+				- attributed to Pat Quilter: an electron doesn't know if it's a tube or a transistor; you have to voice it right
+				- Josh Scott: germanium vs silicon (talking about different transistors, but the similarity with Quilter's argument is interesting), it doesn't really matter; what matters is how you voice the pedal
+				- The Gear Page user: "Digital modelling might be the missing ingredient in closing the gap between tubes and solid state." (https://www.thegearpage.net/board/index.php?threads/quilter-disappointment.2321918/post-33936105 Oct 4 2023)
+​	
+34
+## NAM and the open source discussion
+- modelling and profiling
+- null tests
+- NAM vs Kemper/QC/Fractal/Helix/ToneX/etc
+
+38
+	- discussions that tap into the Open Source character of NAM to criticize people selling profiles:
+		- "for the people, by the people" or, even better, "for us, by us", as a user put it
+		- misunderstanding of what OSS actually implies and accusations by others of being "freeloaders"
+
+CONCLUSÕES E GRANDES TEMAS
+
+Ordens de justificação:
+
+a) Tech as enabler/democratizing force
+
+40
+Technology as an enabler
+Democracy and its advances and reverses throughout History form a complex theme that obviously cannot be satisfactorily dealt within the constraints of this article,[^deibert] so let me limit my scope right from the start. As stated above, I am particularly interested here in forces that enable people to acquire knowledge and broadcast what they make with that knowledge. More specifically, I want to investigate some of the possibilities for people to get their artistic aspirations in motion and eventually released in the current post-pandemic world [RIDÍCULO, ARRUMAR UMA DEFINIÇÃO MELHOR - provavelmente vou ter que pegar alguma explicação sobre o post-pandemic world].
+
+41
+Technology has thus been hailed as a democratizing force in itself--at least since the beginning of the internet age,[^internetAndTech] and today more than ever there's practically no technological affair that isn't connected to the internet (in both senses). Covering a broad spectrum that touches on digital rights activism, the free culture movement, Wikipedia, "copyfight", free and open-source software, crowdfunding, self-publishing initiatives, cryptocurrencies, podcasting, "value-for-value" initiatives, grassroots journalism, the so-called Arab Spring and even YouTube, technology is the common enabler to all of these phenomena. Phenomena that, by its turn, can be regarded as democratizing in one sense or another. More directly related to music, streaming and piracy made entire song catalogs immediately available to anyone with an internet-connected device; blogs and, later, social media made it possible for musicians to cut costs on publicity; and tech-deflation[^techDeflation] (the downward pressure on prices as new tech gets old), put formerly inaccessible "studio-grade" gear in the bedrooms of hobbyists. Music software is especially characteristic of the phenomenon: sounds such as those of a symphony orchestra, ambience like that of a reverb chamber or the tone and affordances of an all-analog Neve console are currently accessible to virtually anyone in the form of a software plugin, whereas they were previously attainable only to artists signed to a big recording label with a correspondingly big budget. 
+
+45
+The reason I have been treating software as a metonymy for technology is that in a sense software is where it all "happens" with regard to the digital amplifiers at the center of our discussion in this paper. Though it may sound like I am simply singing the praises of music software, what I actually intend to do in these initial sections is provide as much information as possible about the possibilities and affordances that these solutions offer so that it becomes clearer what is at stake when we start to see people put so much stress on their shortcomings. As we will see below, sometimes a person celebrates a certain feature only to immediately see that same feature be turned on its head and be considered a problem by an interlocutor.
+
+c) interface
+42
+A great deal of music software is based on coveted pieces of gear, sometimes building upon it but more frequently trying to replicate it as faithfully as possible, including its user interface. At the same time, compared to the hardware it "emulates",[^emulation] software is usually cheaper (potentially free if we consider piracy) and more flexible. All this makes working "in-the-box"[^inTheBox] significantly more attainable to those who can't resort to a traditional studio or something similar. It costs a lot more money to book studio time and the price follows the equipment it possesses,[^studioMojo] but there are also expenses and constraints to be accounted for in the very fact of going to a studio compared to doing it all at home. First, there is the travel time and corresponding gas costs. Second, one must block an entire time slot ahead, as opposed to squeezing some music-making at home between chores or when the day is done. Finally, there's the knowing part: the people, where to go, the vocabulary and the codes to interact in a professional studio.
+
+
+
+51
+Divide between software and hardware, UI as mitigator
+- A questão da interface e de se lidar com menus em vez de simplesmente ligar e desligar os pedais - isso tem a ver o quanto as interfaces de usuário no software imitam o hardware (acontece no desktop, mas não tanto nos modeller que vc leva pro palco)
+- LEMBRAR DE FALAR DO PESSOAL QUE NÃO QUER MEXER EM MENUS. A INTERFACE É REALMENTE UM PROBLEMA
+- Como amplificar (transição para flexibilidade)
+
+All this creates a somewhat predictable divide between the analogue and the digital realms. Some would say that, being different in nature, it would make them incommensurable with regard to the knowledge the user can carry from one to the other. At the same time, since music software has the tendency to imitate--sometimes in minute detail--the analogue gear after which it is modelled, it could be expected that regular use could be translated directly. Take as an example the coveted all-analogue Tone King Imperial MKII and the interface of Neural DSP's digital version of the same amplifier:
+![Hardware Tone King Imperial MKII - front](./assets/TKImk2-front.jpg)
+![Hardware Tone King Imperial MKII - back](./assets/TKImk2-back.jpg)
+![NeuralDSP Tone King Imperial MKII plugin - front](./assets/NDSP-TKIml2-front.png)
+![NeuralDSP Tone King Imperial MKII plugin - back](./assets/NDSP-TKIml2-back.png)
+
+b) flexibilidade
+44
+Guitar software and hardware
+Software can either be considered easier or harder to use depending on the user's skill and mindset, but it offers a kind of flexibility that hardware rarely achieves–granted, as long as one is working within the constraints of what the product's maker envisioned.[^turingComplete] Software is not as inherently constrained by physical properties such as space and power demands, so, for example, it is common knowledge that tube amplifiers deliver their most sought-after sounds within a certain volume range. This means that one needs to deal with loud sounds to achieve their desired tone certain volume range to deliver its most sought-after sounds software can be made more tweakable: changing the speaker of a software amp to get a different tone can be done in one or two clicks or, in the worst case scenario, through a download followed by the installation of some form of impulse-response or similar technology.[^impulseResponses] A hardware analog amp, by its turn, requires that one buys the speaker and actually goes through the process of removing the old speaker, inserting the new one, soldering connections etc., in a process that usually requires specialized knowledge and includes potentially life-threatening procedures. 
+Software é flexível [fazer referência ao ponto {1} no texto]
+- mas as pessoas normalmente não têm como mexer nele
+    - em amplificadores (analógicos) elas mexem
+- no digital (software (se não for foss) e amp), vc está at the mercy of the maker
+    - claro que IRs podem ser usados em qq coisa, mas o mercado de presets/capturas e a comunidade criam lock-in no ecossistema de cada um
+        - tem alguma fala de youtuber (talvez Rhett Shull) de que algum de que o Kemper, por permitir que as pessoas capturassem seus próprios amps, fez o produto bombar (agora vai achar isso, talvez tenha sido no Dipped in Tone)
+        - o NAM oferece tudo isso e ainda é gratuito
+- NAM é exceção porque é FOSS - embora seja muito mais difícil que mexer num amp, mas ao mesmo tempo vc não corre risco de vida
+- NAM quebra com tudo isso
+
+48
+Moreover, users can combine software with other pieces of software, can use it in series or in parallel with itself multiple times, can split what it does according to different parameters etc. For example: think about passing a guitar signal through three VOX AC30s with the purpose of achieving whatever three AC30s stacked could do: first of all, you'd have to have three units of this fairly expensive amp. Then each one would have to be mic'ed, hopefully minimizing bleed from one to the other, so you'd need three microphones (assuming you'd use only one mic for each) and a room with space and treatment adequate to handle the volume and the specific sound propagation situation that will be created. One surely couldn't do it in a condo, so think about a studio that offered such a structure to perform this in the analogue realm. This is all trivial with software, offering a degree of flexibility virtually impossible in the physical realm:
+	[COLOCAR ALGUMA FALA QUE EXEMPLIFIQUE ISSO]
+
+49
+However, usually hardware gear allows for a kind of intervention on its inner workings that is rare in software due to it requiring, 1, that the source code is available and, 2, that the people interested in working on it have the technical expertise to do so. Granted, not every guitarist has the knowledge and ability to get a soldering iron and start messing with pedals, let alone amps. But somehow--at least until the current kids reach adulthood--this is a lower barrier of entry than tinkering with Digital Signal Processing and the like. This can be verified by the abundance of modding, DIY and BYOC[^moddingDIYBYOC] forums on the internet and by how frequently this route is suggested in discussions in other forums:
+Exemplos Modding Suggestion
+
+50
+{1} Conversely, at least to my knowledge, someone suggesting a fellow guitarist should go mess with a plugin's code is fairly unusual. Maybe there is something here related to the fact that doing small fixes on one's own instrument is usually regarded as an ability a professional musician should possess, and then perhaps it passes over to hardware equipment in general. Software (so far) doesn't occupy a similar position and, as I said above, at the very least one needs to have access to the programs' source code to be able to modify it, which is in itself something rare in an industry that is built around the (supposed or real) exclusivity and uniqueness of each maker's intellectual property.[^examplesOfIndustryHype] Intimatelly connected to it, the flexibility that the digital realm possesses puts its users in an intermediary position that helps create ecosystem lock-in. This can be seen in the existence of a huge market for presets, impulse-responses and amp models/profiles. Usually these programs offer the ability to create presets, which are a way to store and later recover settings that the user may have liked or found useful. People sell or share presets they make and the fact that there is such a market for it shows that many users are not even interested in tinkering or learning to tinker with the gain and volume knobs or the EQ section of their software amps and prefer to rely on other users' ears and ability.[^presetSharingAndCommunity]
+
+Pode parecer que estou falando só bem do software, mas basta passar cinco minutos sozinho com um pela primeira vez que vc vai ver que tem uma curva de aprendizado bem steep e que nem todos os conhecimentos do mundo analógico se transferem para o digital. Provas disso são a quantidade de postagens em fóruns e vídeos no YouTube ensinando a usá-los ou, mais importante, o fato de que vender presets virou um business. 
+
+d) o som
+52
+Nevertheless, comparisons between digital versions and "the real deal" abound. For instance, here's what turns up in a simple YouTube search (on 2023-11-14) using the query "Neural DSP Tone King Imperial MKII vs real amp":
+![thumbnail 5](./assets/NDSPvsAmp-5.png)
+![thumbnail 4](./assets/NDSPvsAmp-4.png)
+![thumbnail 3](./assets/NDSPvsAmp-3.png)
+![thumbnail 2](./assets/NDSPvsAmp-2.png)
+![thumbnail 1](./assets/NDSPvsAmp-1.png)
+
+Argument compilation: nothing does what a tube does; digital is now indistinguishable; sounds like but feels different; the differences don't matter in practice
+- "It may just be a placebo. *It totally could just be in my head, but I don't really care.* That's what matters. If I like the way that I sound and I feel good when I'm playing, I'm going to sound better." Rhett Shull (https://youtu.be/873F0dHl_ME?si=8WBOmsAAxnuiSFW4&t=1263 21:03)
+
+The “everybody is wrong” kerfuffle
+
+https://youtu.be/gJ59h7xfvdI?si=-nyB5mvvPLHxKm8j
+
+O que esse vídeo mostra é como pessoas get hung up on number and normative directives when they should be “using their ears”. Use your ears has become a cliche that some throw against others and I don’t want to take sides here, but it’s hard not to notice that that’s how people had been behaving for the most part of the electric guitar’s history. Claro que sempre existiu gente que sabia de elétrica e dava instruções, mas quando se olha a gravação dos grandes discos, o que mais se vê é pura experimentação e tentativa e erro, um contato direto com os aparelhos e uma relação de propriedade e curiosidade com a coisa.
+
+O que pode ter mudado?
+Pontos para discutir:
+- muita insegurança em relação ao que se ouve e o que pode existir mas não se está ouvindo porque não se tem experiência. Será então que isso é um efeito da democratização? Mas e os caras doidoes no estúdio experimentando com sintetizador, por ex? É só o efeito das drogas? Tem tb o fato de que tinha um produtor meio que como “adult in the room”
+- Será que o combo computador-software como mediação, que é black box por excelência, potencializa essa relação quase fetichizada, como um macaco olhando o monólito do 2001?
+- Tem o aspecto da relação menos direta. “Turning knobs”, pra usar tb outro clichê, é uma coisa real em termos da relação direta com a coisa (não à toa tanta gente abandona Hélix e afins dizendo que sentia falta disso)
+- Será que tem “fórum culture” mesmo? Um monte de gente procurando assunto e procurando polêmica 
+- No fundo é tudo som. Por que não acreditar nos ouvidos?
+- “Up until this point, people had just been setting the digital input level on the plugin by ear. And just dialling something that sounds good enough. Not the most rigorous solution but it mostly works”. (3:52 do video Everybody is wrong)
+- o ponto central do cara do everybody is wrong é que digital tb tem noise floor; isso não é algo só do analógico, como tanta gente afirma ser
+- Comentários ao vídeo no YouTube:
+- @ZultyBoi: So you’re telling me it’s only 2024 and people have already forgotten how to avoid high noise floors lol incredible
+- @artemyeden: I’m not a qualified audio engineer - just a producer. However, I used to think that it’s obvious: the more clean boost you got = the more depth (resolution) and more signal/noise ratio you achieve within the interface. It’s strange that someone claims the opposite as a community consensus, because all the A/D theory proves that. Thank you for that video. Musicians possess a humanities mindset rather than a technical one, so there’s a lot of honest misconceptions like this - it will be very helpful.
+
+- A discussão na verdade não é sobre como soa ou sobre se vc sente como bom ou ruim, mas sobre o quanto se chega perto do benchmark
+- A paranoia é tanto que sequer se confia no que se ouve do null test; vc precisa colocar o null test num espectrômetro 
+- Exemplo do estetoscópio que tem a medida pro analógico e outra pro digital 
+
+
+Falta de personalidade do digital, sons off the shelf, similar ao que se fala de presets em sintetizadores. Beato e Oto falam “todo mundo usando o mesmo som de guitarra pq é o mesmo amplificador”. Capture resolve isso (ver conversa sobre capture vs modelling no FB)
+- No video do Vertex sobre The Future of Tube Amps ou algo assim (é com o cara que trabalha na Victory Amps) ele faz a comparação de que o modeller é como olhar uma foto ou vídeo e o amplificador valvulado é como ir ao lugar. Ele diz que vc pode curtir os dois, mas que são coisas diferentes.
+- dificuldades com harshness/sizzle
+- No entanto, há as affordances próprias do digital: Prog metal tem características que se favorecem de modelling
+
+53
+## Argumentos:
+	- "Nothing does what a tube does and nothing ever will"
+		- Countered by "Ok Boomer" - accusations of elitism, conservatism, superstition
+	- "Amp-modelling technology has matured and is now (virtually) indistinguishable
+		- Countered by "they've never even experienced a tube doing its thing properly due to various circumstances involving generation, financial means, and lack of opportunity (no space to crank an amp, no vintage "true" equipment within reach)
+	- Middle ground, various arguments and different positions:
+		- "It sounds just like tubes, but feels different under the fingers"
+			- Countered by "I've never even experienced the real thing... so what it doesn't feel the same?" - I've never seen anyone say it feels different and it's better this way **and this is something interesting**
+		- "It doesn't sound exactly like tubes, but it doesn't matter in practice"
+			- Countered by "but what about how the player feels about it?", "The player plays better if they feel it the way they themselves like it"
+			- Also countered by the "Death by a thousand cuts" argument
+			
+
+
+
+
+
+[no início da seção technology as enabler, eu escrevi: "Democracy and its advances and reverses throughout History form a complex theme that obviously cannot be dealt with here,[^deibert] so let me limit my scope right from the start. As stated above, I am particularly interested here in forces that enable people to acquire knowledge and broadcast what they make with that knowledge. More specifically, I want to investigate some of the possibilities for people to get their artistic aspirations in motion and eventually released in the current world [RIDÍCULO, ARRUMAR UMA DEFINIÇÃO MELHOR]." - RETOMAR ESSES PONTOS AGORA NA CONCLUSÃO PARA PODER FECHAR DISCUTINDO ISSO: "In principle, an increase in the circulation and the variety of ideas and artistic works would eventually feed back into more general democratizing processes such as demands for rights and representation or struggles against oppression.[^darnton]]
+
+
+FOR THIS PRESENTATION, I’D LIKE TO END HERE AND ASK WHY PEOPLE ARE MORE OPEN TO DIGITAL THAN TO SS
+PERHAPS DIGITAL IS A TECHNOLOGICAL BREAK *AND* AN AESTHETIC BRIDGE
+ALSO BECAUSE MANY OTHER STUFF IN OUR CULTURE PUTS SO MUCH TRUST EVEN IN DIGITAL
+It’s interesting to observe that modelling, which is the most modern, exists precisely because people want the old stuff without the problems of the old stuff: reliability, weight, price
+and some people want exactly the old stuff, with all its shortcomings
+there’s an understanding of it carrying its affordances in the whole package perhaps
+but then new problems arise: does it really sound like the old stuff? the interface is a problem. You can’t fix digital stuff etc.
+As I said earlier about the Roland jazz chorus,
+it was its own thing
+it was modern and hip until it wasn’t anymore, just like the DX7, the Linn drum machine or chorus pedals… 
+- …all of which have made or are making a comeback
+Exemplo do som do polyphia
+
+b) the reality of musical labour - where it all comes together
+43
+Of course, the home studio has its limitations too. Acoustics can be a big issue in achieving "radio-ready" results, though room treatment is possible and has also gone down in pricing. Space is also a problem both to fit equipment in a bedroom and because one must avoid making too much noise, especially in urban areas. There are also workarounds, such as wearing headphones or keeping volumes down for mixing or resorting to software that tries to tailor the sound output to the room by employing compensation algorithms and this is where working in-the-box really shines. Still, the feasibility of an apartment-dweller successfully recording drums in their bedroom is severely limited. This is where sample libraries come in, offering drum sounds and patterns recorded by professional studio musicians at high end studios that, in the final mix, will arguably sound better than drum sounds captured in a mid-tier studio at a fraction of the cost and time it would take.
+
+
+
+46
+***The model for most of the coveted music was created was the rock band in a studio [DESENVOLVER]
+
+47
+the home studio is the way to go in a world in which very few make a living as musicians
+mesmo para os pros: Falar de silent stages, in-ears e da pressão por stage volume mais baixo (entra a questão da conveniência do digital) tem um video do JNC sobre ter voltado a usar amps no palco
+
+But in the end what becomes clear here is how things are interconnected, making the whole picture of tech as enabler more complex: people want to record music and they can do it at home now, but the coveted equipment isn't suitable to home use. A studio would be needed, really, due to volume, acoustics and space needs. But then this would require time and financial resources. Studios are less expensive because tech-deflation also put more previously-high end gear within the reach of small/medium studios, but still one needs to block time to go to the studio. Contemporary life, has made it difficult for musicians to live off their music and most of them have day jobs, which makes blocking time much harder and making music late at night in a bedroom is often the only possibility, so the home studio is the way to go in a world in which musicians aren't signed to a big label to do a record and then have their time resources all employed due to that being their job. All things considered, when compared to "the model", tech-enabled home music-making bears the amateur mark from its birth. Due to the conditions in contemporary capitalism, it's not made by people whose efforts can be all concentrated on making it; it's not created in the same spaces as that one was and was created employing simulations of that equipment. Even if one has the same amplifier and mic'ed it with the same coveted vintage microphones of yore, was it recorded in Studio Two of Abbey Road studios (https://www.abbeyroad.com/studio-two), with its "warm acoustics"?...
+
+conclusões e temas transversais
+
+E se o artigo fosse “gear talk on the internet: the case of guitar amplifiers”? O vídeo do Beato “playing my dream rig” é uma base boa pra discussão do artigo 
+- como as pessoas se engajam tanto nisso. Não é real. Vc vê o Beato botando a dream rig dele e na sala devia ser uma cosia incrível, mas pra quem assiste no YouTube é só um bom som de guitarra, como o de milhões de vídeos feitos com modellers. 
+- If you wanna move people you got to move air: mas isso é pro ao vivo (e mesmo assim, o PA move ar
+- A quantidade de reviews de gear que dizem pro pessoal usar headphones já mostra como as mediações estão lá e ngm tá prestando atenção a elas
+- E a internet produz um efeito de verdade 
+- Tem o vídeo do JHS sobre reviews serem honestos 
+    - Discutir a piração de que o YouTube vai te dar uma noção real do som de algo - tem o vídeo do JHS sobre pedal reviews being honest 
+
+Agora o debate do everyone is wrong, discutindo o nível de sinal que vc manda colocando o ganho da interface em 0. 
+- já tem gente falando em “this never ending debate”
+- E aí algo a se considerar é que talvez tenha aí mais uma vez a velha linha separando cultura e natureza. Volta e meia a gente vê processos de engenheiros de som ou músicos e nós admiramos sobre como as pessoas usaram tal coisa de maneira não convencional e como isso produziu um som próprio etc. No entanto qdo se trata desse tipo de processo, qdo estamos falando de processamento de sinal, aí parece que estamos firmes no terreno da natureza e que não tem espaço para maneiras heterodoxas de fazer pq “it’s just physics”. Mas no estúdio do tempo analógico sempre houve variação. Sempre houve o cara que fazia assim e o que fazia assado, o que preferia tal equipamento e o que preferia tal outro equipamento. E ambos conseguiam resultados que foram copiados por outros por serem bons. Basta assistir a dois ou três vídeos do Mixing with the Masters que vc vai ver isso acontecendo. E eu não quero aqui bancar o cara de humanas relativista que não entende nada das ciências hard e que diz que vale tudo. Longe de mim. Existem elementos da ordem da física aí mesmo agindo e, conhecendo eles, podemos tirar um optimal signal. A questão é que esse optimal signal é marcado por uma série de elementos que poderíamos definir como “subjetivos”. Não necessariamente precisamos (embora quase sempre queiramos) da melhor SNR. Ou, para colocar de maneira mais eloquente, muito antes desse debate começar com aquele camarada que sugeriu o 0 e que todos os YouTubers saíram atrás, esses mesmos YouTubers já estavam tirando sonzão, fazendo propaganda desses equipamentos e sendo elogiados e perguntados sobre como tiravam aquele sonzão. Isso já me basta como prova de que esse debate está longe do puramente técnico. 
+
+Fechar com uma discussão sobre por que as pessoas se engajam nessas conversas
+- entretenimento
+- Vontade de se conectar (no fundo é como qq outra rede social e o fato de que brigas surgem só mostra como podia ser política, mas é guitarra)
+- Necessidade de aparecer como smart
+- Consumismo (discutir GAS)
+- E aí entram os cork sniffers e os ricos que podem se dar o luxo de pagar 1k por uma diferença de 5% melhor 
+- ver seção [forumCulture] no Questões para Abordar
+
+35
+- against elitism, lowering barrier of entry
+	- curiously, the argument of "feel" surfaced as the tone became indistinguishable
+		- how quick the amp responds (SS is faster, but some people claim - in other contexts, meaning, when discussing only tube amps - that there is difference according to speaker - why not bring the speaker thing in this case too?)
+		- mushiness and compression (Quilters usually have a compressor/limiter built-in to match the feel of tube amps, at the same time the Two-Rock guy says he doesn't like compression and works to have his amps - usually considered state-of-the-art in terms of boutique tube amps - to compress as little as possible (Dipped in Tone interview))
+
+36
+	- isn't this "nothing but tubes" thing some form of keeping the outsiders/children in their place?
+
+30. there's more people who go back and forth between tubes and digital than those who stick with analog, despite being tube or SS (JA APARECEU LÁ EM CIMA E AQUI VAI SER RETOMADO COMO CONCLUSÃO)
+
+37
+	- creates the feeling of "when I grow up, I'll go tubes" - "As most players tend to graduate to tube amps from solid-state amplifiers, they (tube amps) can be known as more aspirational amplifiers – something that you 'graduate' to" (https://www.laney.co.uk/blog/solid-state-vs-tube-amps-why-be-forced-to-choose/#:~:text=Solid%2Dstate%20amps%20don%27t,way%20as%20a%20tube%20amp, Oct 4 2023).
+
+O tema do vintage é algo que precisará ser tratado em outra ocasião pq mostra como essa discussão reflete algo muito mais amplo (lembro até do Hayden white citado pelo José Reginaldo)
+Falar de vintage
+- ver seção [vintage] no arquivo "Questões para abordar"
+- exemplo do PAF não poder ser duplicado hj em dia no Dylan Talks Tone
+- No início desse vídeo o Sean Hurley fala de como o GnR era uma ruptura em relação ao hair metal, sendo mais earthy, vintage-y etc. https://youtu.be/62Iy5fU4_y8?si=BKc69ehDc0wzGD-p

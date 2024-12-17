@@ -40,19 +40,9 @@ Esoteric and nerdy as these themes may seem, what really matters here are the ar
 
 Similarly to Callon's (2006) work on technological controversies, I followed online discussions on the internet forums The Gear Page and TalkBass, on YouTube comment sections, and in the following Facebook groups: "Neural Amp Modeller (NAM)", "Neural Amp Modeller (NAM) Users (Unofficial)", "Neural DSP users group", "Bass Players", "Tube Guitar Amplifiers", and "Line 6 Helix Family User Group OFFICIAL and ORIGINAL". I watched how the participants in those groups slowly gathered around clusters of sometimes seemingly incongruent arguments, jumping from physics and psychoacoustics to financial conditions, age, or the effect of an instrument's appearance on their playing. These idea aggregates usually combine different "families" of argument that work more or less like Boltanski and Thévenot's (1999) "orders of worth". Retracing how they take shape helps us see consensus and objectivity being collectively built in the very process of discussion (Latour 2005, 27, 31).
 
-Boltanski and Thévenot (1999) propose that people justify their actions and arguments through different "orders of worth", which are like frameworks rooted in distinct principles that people invoke to determine what is valuable or worthy in a particular situation. For example, in some contexts, people might justify decisions based on *efficiency* (the industrial world), while in others, they might invoke principles of *public recognition* (the world of renown), or *moral or civic duty* (the civic world). Each "world" represents a system of worth with its own set of values, rules, and criteria for what is considered appropriate or legitimate.
+Boltanski and Thévenot (1999) propose that people justify their actions and arguments through different "orders of worth", which are like frameworks rooted in distinct principles that people invoke to determine what is valuable or worthy in a particular situation. For example, in some contexts, people might justify decisions based on *efficiency*, while in others, they might resort to arguments related to *public recognition*, or *moral or civic duty*. Each of those principles refers to a different order, a system of worth with its own set of values, rules, and criteria for what is considered appropriate or legitimate.
 
-Boltanski and Thévenot identify several worlds, including:
-- **The Domestic World**: Where worth is determined by personal relationships and hierarchy (e.g., family or close-knit networks).
-- **The Industrial World**: Where efficiency and productivity are key criteria for worth.
-- **The Market World**: Where worth is determined by competition, opportunity, and financial success.
-- **The Civic World**: Where worth is based on shared public values and the common good.
-- **The World of Renown**: Where worth is derived from recognition and reputation in society.
-- **The World of Inspiration**: Where worth is linked to creativity, individual expression, and artistic value.
-
-In these worlds, people rely on **different principles of justice** to argue for the legitimacy of their actions and decisions. Criticism or debate occurs when people invoke contrasting principles or "worlds" to judge the same situation.
-
-### Adapting Orders of Justification to Guitar Equipment Discourse
+Boltanski and Thévenot identify several worlds and do an investigation of their guiding principles. Though interesting and insightful, delving into the full argument would require a much lengthier digression than appropriate in a text like this one. Therefore, I will simply note that each of these worlds is structured around different standards of justice that individuals use to justify their actions and decisions. Criticism or debate occurs when people invoke contrasting principles or "worlds" to judge the same situation.
 
 In the case of online discussions about guitar equipment, the principles of justification that participants invoke are similarly multifaceted and often draw from different "worlds" of worth. For example, users may justify their preferences for certain amplifiers or effects by referencing:
 

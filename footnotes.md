@@ -4,7 +4,8 @@
 [JhsPedalHistorian]: video em que o Josh Scott se define como historiador
 [videoSobreOJohnCordy]: nesse video ele fala de si como teacher/educator
 [JHSPedalsChannelSize]: at the time of this writing his company's YouTube channel has 999 videos uploaded to the platform, 494 thousand subscribers, and 102 million total views.
-[refDescricaoLoudIsMoreGood]: https://jhspedals.info/products/loud-is-more-good-helix?srsltid=AfmBOopNJWAO4lNO4BqLmYFnhfTi3JvBfnGDG027aWKfI51Y02OzDvAC (acessed in Nov 20, 2024)
+[refDescricaoLoudIsMoreGood]: designed by American maker Milkman Sound for JHS, https://jhspedals.info/products/loud-is-more-good-helix?srsltid=AfmBOopNJWAO4lNO4BqLmYFnhfTi3JvBfnGDG027aWKfI51Y02OzDvAC (acessed in Nov 20, 2024)
+[amp>guitar]: It is in fact not rare to find forum threads in which people state that, while everybody seems to pay most attention to guitars, amplifiers are more important in producing one's tone.
 [artigoHistoriaAmpsGuitarWorld]: https://www.guitarworld.com/features/solid-state-digital-guitar-amps-evolution-future-of-tubes (accessed in Nov 30, 2024)
 [^pegarReferenciaNasAbasDoTelefone]
 [^referenciaMoveAir]

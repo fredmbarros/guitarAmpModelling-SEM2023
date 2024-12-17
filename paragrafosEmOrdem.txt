@@ -2,6 +2,38 @@
 
 Brian Wampler, Chasing Tone - Guitar Podcast about Gear, Effects, Amps and Tone, episode 482 - There’s a new sheriff in town - the Fender Tone Master Pro, October 11, 2023.
 
+In this article, I will examine online conversations about digital modelling and profiling of guitar amplifiers, basing my discussion on two main events: the already mentioned JHS amp "blind test" and the advent of a piece of free and open-source software that some users claim rivals expensive proprietary solutions in emulating the sound of those amplifiers.
+
+Esoteric and nerdy as these themes may seem, what really matters here are the arguments that people mobilize to support their claims. These arguments render visible broader implications and assumptions that in turn offer us a glimpse into what music-making has become in the mid-2020s. In other words, my underlying assumption is that "gear talk on the internet" can reveal much more than futile consumerism. Internet forums are instances where groups form[^groupFormation] around reverence or disdain for certain pieces of equipment, and people engage in these conversations to the point of fighting with each other. The number of video reviews, thought pieces, and forums posts is staggering by any measure[numbersOfGearTalk]. 
+
+Similarly to Callon's (2006) work on technological controversies, I followed online discussions on the internet forums The Gear Page and TalkBass, on YouTube comment sections, and in the following Facebook groups: "Neural Amp Modeller (NAM)", "Neural Amp Modeller (NAM) Users (Unofficial)", "Neural DSP users group", "Bass Players", "Tube Guitar Amplifiers", and "Line 6 Helix Family User Group OFFICIAL and ORIGINAL". I watched how the participants in those groups slowly gathered around clusters of sometimes seemingly incongruent arguments, jumping from physics and psychoacoustics to financial conditions, age, or the effect of an instrument's appearance on their playing. These idea aggregates usually combine different "families" of argument that work more or less like Boltanski and Thévenot's (1999) "orders of worth". Retracing how they take shape helps us see consensus and objectivity being collectively built in the very process of discussion (Latour 2005, 27, 31).
+
+Boltanski and Thévenot (1999) propose that people justify their actions and arguments through different "orders of worth", which are like frameworks rooted in distinct principles that people invoke to determine what is valuable or worthy in a particular situation. For example, in some contexts, people might justify decisions based on *efficiency*, while in others, they might resort to arguments related to *public recognition*, or *moral or civic duty*. Each of those principles refers to a different order (or "world"--see Boltanski and Thévenot 2006, Part 6, Six), a system of worth with its own set of values, rules, and criteria for what is considered appropriate or legitimate.
+
+Boltanski and Thévenot identify several worlds and do an investigation of their guiding principles. Though interesting and insightful, delving into the full argument here would require a lengthy digression that would be better left for another occasion. I will simply note that each of these worlds is structured around different standards that individuals use to justify their actions and decisions. When people invoke contrasting principles or when they ascribe different weights to them while judging a situation, criticism or debate usually occurs.
+
+In the case of online discussions about guitar equipment, the principles of justification that participants invoke are similarly multifaceted and often draw from different "worlds" of worth. For example, users may justify their preferences for certain amplifiers or effects by referencing:
+
+1. *Technical and Practical Considerations*: the performance, efficiency, and effectiveness of a product;
+   
+2. *Cost and resale value*: the cost-effectiveness, brand value, availability and how much one can recoup back when selling a piece of equipment;
+   
+3. *Aesthetic and artistic considerations*: values connected to personal expression, tone, creativity and how much that piece of gear inspires one to play;
+   
+4. *Public recognition and popular opinion*: what is fashionable or widely accepted--this is where forum culture is more directly at play;
+   
+5. *Personal and emotional attachments*: sentimental or relational value, as when someone inherited, has been given or found a rare piece of gear and becomes attached to it.
+
+These clusters of arguments are not discrete. On the contrary, they intersect, overlap, merge, and, of course, fight against each other--even in the case of the same person speaking about a specific piece of equipment. People usually weave together multiple types of justification, relying on different worlds at the same time to make their point and that is the most interesting aspect of Boltanski and Thévenot's model. For instance, someone might combine arguments related to, on one side, technical characteristics and, on another side, affordability to argue for a pedal's value. Then they may bolster their argument further by also adding how widely used that pedal is. On other situations, instead of stacking up arguments from different worlds, a single argument may itself be a composite, like a vintage guitar inherited from an older family member: its "vintage-ness" comes at the same time from it being old and from it being from an older person whose history is entangled with the instrument itself.
+
+Boltanski and Thévenot's worlds represent various ways that people approach and discuss guitar amplification, each providing a different lens through which musicians and enthusiasts can interpret and justify their choices. I will introduce examples and themes throughout the text to illustrate these justifications. Experimentally, I won't focus on identifying specific actors or individuals in these discussions. Instead, my interest lies in observing the orders of worth they rely on. These orders reveal the contemporary possibilities for thinking about guitar amplification from the musician's perspective, and this is the core focus of my analysis. A form of collective construction of consensus arises from these discussions, one where participants negotiate and align these different types of worth through the process of discussion. Through this approach, I aim to unpack how different justifications shape not only individual choices but also the broader discourse on the value and meaning of guitar gear in modern music-making.
+
+The model helps attune our ears to the various layers and their relative weight in each person's speech. By examining the types of arguments people use in these discussions and how they mobilize different worlds of justification, we can gain insight into how value is constructed in the realm of music technology and what these values reveal about the broader socio-cultural dynamics of contemporary music-making. In these online communities, participants are not just arguing over equipment but also negotiating what counts as legitimate knowledge, expertise, and value with regard to guitar gear, much like how different principles of worth shape social and professional justifications in other spheres.
+
+***
+
+Equipment has always been part of the conversation among musicians and these days gear talk on the internet has become all but inevitable. It is indeed a fundamental part of forming one's opinions, like when a salesperson showed me an unknown (to me) guitar in a store and, when I said I would rather think a little more before buying anything, replied with slight sarcasm: "yeah, go look it up on-line before making a decision..."
+
 On December 20, 2022, the JHS Pedals YouTube channel released an episode of the JHS Show with the following thumbnail:
 
 [THUMBNAIL DO EPISODIO I'VE BEEN LYING TO YOU]
@@ -12,15 +44,13 @@ Around 6:20, Scott shows the amp and states "We've been just... not really turni
 
 [figura loudIsMoreGood-zoado]
 
-***
-
 JHS Pedals is a company specialized in making guitar pedals, small boxes through which one passes the guitar's signal to alter its sound. The company's founder, Josh Scott, started fixing and modifying (modding) pedals for himself and for friends around 2007. Word spread out and he began selling those under the name JHS Mods, eventually making his own pedals. At that time, Scott was living off flipping gear, that is, buying and selling used equipment, and slowly built a substantial pedal collection that is currently believed to be the largest in the world.[^JhsPedalCollectionLargest]
 
 Scott sometimes defines himself as a pedal historian[^JhsPedalHistorian] and educator[^videoSobreOJohnCordy] and many videos in JHS's channel deal with the history of equipment, people and companies important in guitar history or explain and demonstrate guitar sounds and the equipment used to achieve them, though rarely getting into actual product demos. The channel often produces videos of a mythbusting character too, like the "Can You Hear It?" series, in which blind tests comparing famous pedals to inexpensive alternatives are performed. 
 
-Although not among the largest in numbers,[^JHSPedalsChannelSize] the channel is particularly influential in the guitar space. For example, on March 13, 2023, an episode of the JHS Show compared the inexpensive DigiTech Bad Monkey Tube Overdrive pedal to high profile counterparts like the Klon Centaur, the Tube Screamer and even JHS's own Morning Glory, suggesting that the Bad Monkey could produce identical tones to those. This immediately sparked massive interest in the pedal, whose used prices skyrocketed in the subsequent weeks from its typical resale value in the US$50 to US$60 range to some listings reaching US$1,000, and as consequence showing Scott's power over the gear market.
+Although not among the largest in numbers,[^JHSPedalsChannelSize] the channel is particularly influential in the guitar space. For example, on March 13, 2023, an episode of the JHS Show compared the inexpensive DigiTech Bad Monkey Tube Overdrive pedal to high profile counterparts like the Klon Centaur, a Tube Screamer and even JHS's own Morning Glory, suggesting that the Bad Monkey could produce identical tones to those. This immediately sparked massive interest in the pedal, whose used prices skyrocketed in the subsequent weeks from its typical resale value in the US$50-60 range to some listings reaching US$1,000, and as a consequence showing Scott's power over the gear market.
 
-Scott's huge pedal collection is featured prominently in virtually all of his company's videos, with plenty of demonstrations and comparisons between pieces of equipment and notoriously sparse plugs of his own products. He also possesses a substantial collection of amplifiers, but except for a few specific videos, those are less prominent. However, since electric guitars need to have their signal amplified, the usual procedure of a guitar going into pedals and then into an amplifier is adopted most of the time. More specifically, in JHS's videos from September 2021 to December 2022, we see the company's own "Loud is More Good"[^refDescricaoLoudIsMoreGood] tube amplifier as the amp of choice.
+Scott's huge pedal collection is featured prominently in virtually all of his company's videos, with plenty of demonstrations and comparisons between pieces of equipment and notoriously sparse plugs of his own products. He also possesses a substantial collection of amplifiers but, except for a few specific videos, those are less prominent. However, since electric guitars need to have their signal amplified, the usual procedure of a guitar going into pedals and then into an amplifier is adopted most of the time. More specifically, in JHS's videos from September 2021 to December 2022, we see the company's own "Loud is More Good"[^refDescricaoLoudIsMoreGood] tube amplifier as the amp of choice.
 
 [SCREENSHOT]
 
@@ -30,67 +60,17 @@ JHS's "blind test" fed off a never-ending discussion around electric guitar tone
 
 Despite their sought-after tone, tube amps have their shortcomings. In the 1960s, most venues' Public Address (PA) systems--if they had one at all--were dedicated to the voice, and musicians had to make themselves heard through amplifiers on stage.[^pegarReferenciaNasAbasDoTelefone] Under these conditions, obtaining a clean sound was not always possible and distortion, "harmonic" or otherwise, is not necessarily always desirable. To ensure more headroom (the range of volume before distorting), or even to get louder when distorted, amplifiers became bigger--and as a consequence heavier and harder to lug around. Nowadays PA systems amplify the entire band and guitarists can use lower-wattage tube amplifiers with microphones placed in front to capture their sound and also send it to the PA, but many players say that, to get "their tone", bigger amps that "move air" are necessary.[^referenciaMoveAir] Even then, tubes are fragile, need to be replaced periodically, making those amps in need of constant care and maintenance. Finally, tubes are getting scarce, as less and less devices employ them, and can behave erratically depending on external conditions such as temperature or electric current, making them inconsistent.
 
-For decades now, people have been arguing if an adequate tube replacement has come along and what trade-offs it brings.[REFERENCIA] These days, this conversation takes place in-person, of course, but also to a great deal on-line. In fact, gear talk on the internet is all but inevitable for musicians these days. It has become a fundamental part of forming one's opinions, like when a salesperson showed me an unknown (to me) guitar in a store and, when I said I would rather think a little more before buying anything, replied with slight sarcasm: "yeah, go look it up on-line before making a decision".
+For decades now, people have been arguing if an adequate tube replacement has come along and what trade-offs it brings.[REFERENCIA] 
 
 ***
 
-In this article, I will examine online conversations about digital modelling and profiling of guitar amplifiers, basing my discussion on two main events: the already mentioned JHS amp "blind test" and the advent of a piece of free and open-source software that some users claim rivals expensive proprietary solutions in emulating guitar amplifiers.
-
-Esoteric and nerdy as these themes may seem, what really matters here are the arguments that people mobilize to support their claims. These arguments render visible broader implications and assumptions that in turn offer us a glimpse into what music-making has become in the mid-2020s. In other words, my underlying assumption is that "gear talk on the internet" can reveal much more than futile consumerism. Internet forums are instances where groups form[^groupFormation] around reverence or disdain for certain pieces of equipment, and people engage in these conversations to the point of fighting with each other. The number of video reviews, thought pieces, and forums posts is staggering by any measure[numbersOfGearTalk]. 
-
-Similarly to Callon's (2006) work on technological controversies, I followed online discussions on the internet forums The Gear Page and TalkBass, on YouTube comment sections, and in the following Facebook groups: "Neural Amp Modeller (NAM)", "Neural Amp Modeller (NAM) Users (Unofficial)", "Neural DSP users group", "Bass Players", "Tube Guitar Amplifiers", and "Line 6 Helix Family User Group OFFICIAL and ORIGINAL". I watched how the participants in those groups slowly gathered around clusters of sometimes seemingly incongruent arguments, jumping from physics and psychoacoustics to financial conditions, age, or the effect of an instrument's appearance on their playing. These idea aggregates usually combine different "families" of argument that work more or less like Boltanski and Thévenot's (1999) "orders of worth". Retracing how they take shape helps us see consensus and objectivity being collectively built in the very process of discussion (Latour 2005, 27, 31).
-
-Boltanski and Thévenot (1999) propose that people justify their actions and arguments through different "orders of worth", which are like frameworks rooted in distinct principles that people invoke to determine what is valuable or worthy in a particular situation. For example, in some contexts, people might justify decisions based on *efficiency*, while in others, they might resort to arguments related to *public recognition*, or *moral or civic duty*. Each of those principles refers to a different order, a system of worth with its own set of values, rules, and criteria for what is considered appropriate or legitimate.
-
-Boltanski and Thévenot identify several worlds and do an investigation of their guiding principles. Though interesting and insightful, delving into the full argument would require a much lengthier digression than appropriate in a text like this one. Therefore, I will simply note that each of these worlds is structured around different standards of justice that individuals use to justify their actions and decisions. Criticism or debate occurs when people invoke contrasting principles or "worlds" to judge the same situation.
-
-In the case of online discussions about guitar equipment, the principles of justification that participants invoke are similarly multifaceted and often draw from different "worlds" of worth. For example, users may justify their preferences for certain amplifiers or effects by referencing:
-
-1. **Technical and Practical Considerations (The Industrial World)**: Arguments based on the **performance, efficiency, and effectiveness** of a product (e.g., does the gear help them play better or more efficiently?).
-   
-2. **Market Values and Financial Accessibility (The Market World)**: Arguments based on the **cost-effectiveness, brand value, or availability** of equipment (e.g., "This $100 pedal does the same job as a $500 one").
-   
-3. **Aesthetic and Artistic Considerations (The World of Inspiration)**: Arguments based on **personal expression, tone, and creativity** (e.g., "This amplifier gives me the sound I need for my music, and it inspires me to play").
-   
-4. **Public Recognition or Popular Opinion (The World of Renown)**: Arguments based on **what is fashionable or widely accepted** (e.g., "Everyone on the forum says this is the best amp, so it must be true").
-   
-5. **Personal and Emotional Attachments (The Domestic World)**: Arguments that rely on **sentimental or relational value** (e.g., "I inherited this amp from my father, and it has sentimental meaning").
-
-These clusters of arguments are not isolated; they **intersect** and **merge** in online discussions. Participants often weave together **multiple types of justification**, relying on different worlds at the same time to make their point. This can lead to a form of **collective construction of consensus**, where participants negotiate and align these different types of worth through the process of discussion. For example, someone might combine arguments from the **Industrial World** (technical specifications) and the **Market World** (financial accessibility) to argue for a piece of equipment’s value, while also referencing its popularity in the **World of Renown** to bolster their argument further.
-
-By examining the **types of arguments** people use in these discussions and how they **mobilize different worlds of justification**, we can gain insight into how **value** is constructed in the realm of music technology and what these values reveal about the broader socio-cultural dynamics of contemporary music-making.
-
----
-
-In this explanation, the key task is to show that, similar to how Boltanski and Thévenot’s framework helps us understand justifications in broader social contexts, the same principle can be applied to analyze how guitarists justify their choices about equipment online. You could also point out that in these online communities, participants are **not just arguing over equipment** but also **negotiating what counts as legitimate knowledge, expertise, and value** in the world of guitar gear, much like how different principles of worth shape social and professional justifications in other spheres.
-
-```
-
-- esse tema me parece interessante pq várias coisas se cruzam. Vou tratá-las experimentalmente como repositórios similares às ordens de justificação: vintage, audiófilo, price-conscious/no frills, pragmatic, details matter/death by 1000 cuts, history of the music/visuals/it’s a performance, I play better when I like my tone…
-- vou apresentar exemplos e temas ao longo do texto que nos permitem ver isso e no fim vou fazer um apanhado pra dar visão de conjunto
-    - experimentalmente também, eu não vou buscar a inserção dos atores. Só me interessam as ordens de justificação a que eles recorrem
-        - essas ordens mostram as possibilidades no horizonte contemporâneo para se pensar sobre amplificação de guitarra do ponto de vista do músico. É isso que me interessa.
 
 
 
+Despite the fact that I have been dwelling on the split between the analogue and digital realms and how it pertains to our discussion, I'd like to suggest another categorization. This perspective does not render the other obsolete, but rather adds another layer to the discussion: tube amps, solid state amps and digital modelling/profiling amps. For us to be able to keep up with the arguments that we will see below, a basic, working understanding of these three types can be useful.
 
-## Amplifiers, modellers and profilers
-
-Now that we have a better understanding of the place tube amplifiers occupy in the guitar space, we can see what is at play in the JHS-Kemper affair. JHS's "blind test" is actually perfectly on-brand, as if they decided to do a year-long "Can You Hear It?" episode with their entire audience, but without the audience knowing--let alone consenting to it. Even the video's slight troll-like tone fits the JHS Show's schtick and may have actually helped prevent harming the company's reputation from being discredited--as if people considered that it was their way of doing entertainment--, although once in a while someone may bring this up:
-
-
-
-16
-(In gear conversations,)
-25
-Despite the fact that I have been dwelling on the split between the analogue and digital realms and how it pertains to our discussion, I'd like to suggest another categorization. This perspective does not render the other obsolete, but rather adds another layer to the discussion: tube amps, solid state amps and digital modelling/profiling amps. For us to be able to keep up with the arguments that we will see some users elaborate below, a basic, working understanding of these three types can be useful.
-
-26
-## Three camps, two paradigms:
-- we can talk about two paradigms:
-		- the traditional paradigm: tube amps, hard (heavy) to carry around, knobs, plug and play, direct control of defined parameters (which are in principle discrete, but there can be a lot of interaction between them when you dig), more flexibility (easier) in terms of how adjust it on the fly (one feature of tube amps is that they change their tone according to temperature and energy source, for example);
+We can talk about two paradigms: the traditional and the digital. Tube amps fall into the traditional paradigm. They are heavy to carry around, knobs, plug and play, direct control of defined parameters (which are in principle discrete, but there can be a lot of interaction between them when you dig), more flexibility (easier) in terms of how adjust it on the fly (one feature of tube amps is that they change their tone according to temperature and energy source, for example);
 		- the digital paradigm: software emulation (a brief discussion about the word "emulation"), having to scroll through (endless) menus, harder to tweak on the fly, at the same time tone is always the same, so it's predictable/reliable, light to carry around - but many times you don't carry because they are in computers at home that "bedroom guitarists" use (vs pros, who graduate to tube amps - but the A-level pros (who play with big acts) have been using (and publicizing) more and more modellers for their dependability and predictability). The solutions for gigging musicians try to bridge the gap between the immediacy of hardware solutions and the main selling points of the digital ones.
-
 
 32
 		- another interesting point is that I've never seen anyone mention the waste of energy that tube amps represent:
@@ -149,6 +129,7 @@ There is a third kind of amplifier that occupies sort of an intermediary positio
 27
 FALAR AQUI DAS POSICOES E ENTAO ENTRAR NA ETNOGRAFIA DE NOVO, APRESENTANDO O QUE AS PESSOAS DISSERAM NO CASO DO JHS-KEMPER **SOBRE AMPS, NÃO SOBRE A HONESTIDADE DO JOSH ETC**
 
+Now that we have an understanding of both our basic model of analysis and the place that tube amplifiers occupy in the guitar space, we can see what is at play in the JHS story with which I opened this article. JHS's "blind test" is actually perfectly on-brand, as if they decided to do a year-long "Can You Hear It?" episode with their entire audience, but without the audience knowing--let alone consenting to it. Even the video's slight troll-like tone fits the JHS Show's schtick and may have actually helped prevent harming the company's reputation too much in that episode.
 
 29
 > The folks going all in on taking great umbrage with misleading titles, clickbait thumbnails, or manufactured controversy, must not follow Josh or JHS on YouTube.

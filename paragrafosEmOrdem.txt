@@ -2,9 +2,7 @@
 
 Brian Wampler, Chasing Tone - Guitar Podcast about Gear, Effects, Amps and Tone, episode 482 - There's a new sheriff in town - the Fender Tone Master Pro, October 11, 2023.
 
-In this article, I will examine online conversations about digital modelling and profiling of guitar amplifiers, basing my discussion on two main events: first the disclosure by a famous YouTuber in the guitar space of having covertly used a digital amplifier during gear demonstrations; second the advent of a piece of free and open-source software that some users claim rivals expensive proprietary digital amplifier emulators.
-
-Esoteric and nerdy as these themes may seem, what really matters here are the arguments that people mobilize to support their claims. These arguments render visible broader implications and assumptions that in turn offer us a glimpse into what music-making has become in the mid-2020s. In other words, my underlying assumption is that "gear talk on the internet" can reveal much more than futile consumerism. Internet forums are instances where groups form[^groupFormation] around reverence or disdain for certain pieces of equipment, and people engage in these conversations to the point of fighting with each other.
+In this article, I will examine online conversations about digital modelling and profiling of guitar amplifiers. Esoteric and nerdy as these themes may seem, what really matters here are the arguments that people mobilize to support their claims. These arguments render visible broader implications and assumptions that in turn offer us a glimpse into what music-making has become in the mid-2020s. In other words, my underlying assumption is that "gear talk on the internet" can reveal much more than futile consumerism. Internet forums are instances where groups form[^groupFormation] around reverence or disdain for certain pieces of equipment, and people engage in these conversations to the point of fighting with each other.
 
 Similarly to Callon's (2006) work on technological controversies, I followed online discussions on the internet forums The Gear Page, Telecaster Page Discussion Reissue, and TalkBass; on discussion site Reddit; on YouTube comment sections; and in the following Facebook groups: "Neural Amp Modeller (NAM)", "Neural Amp Modeller (NAM) Users (Unofficial)", "Neural DSP users group", "Bass Players", "Tube Guitar Amplifiers", and "Line 6 Helix Family User Group OFFICIAL and ORIGINAL". I watched how the participants in those groups slowly gathered around clusters of sometimes seemingly incongruent arguments, jumping from physics and psychoacoustics to financial conditions, age, or the effect of an instrument's appearance on their playing. These idea aggregates usually combine different "families" of arguments that work more or less like Boltanski and Thévenot's (1999) "orders of worth".
 
@@ -34,9 +32,7 @@ This theoretical model helps attune our ears to the various layers present and t
 
 Equipment has probably always been part of the conversation among musicians and these days gear talk on the internet has become a fundamental part of forming one's opinions, like when a salesperson showed me an unknown (to me) guitar in a store and, when I said I would rather think a little more before buying anything, replied with slight sarcasm: "yeah, go look it up online before making a decision..."
 
-***
-
-On December 20, 2022, the JHS Pedals YouTube channel released an episode of the JHS Show with the following thumbnail:
+Another anecdote can be interesting to kick of the discussion. On December 20, 2022, the JHS Pedals YouTube channel released an episode of the JHS Show with the following thumbnail:
 
 [THUMBNAIL DO EPISODIO I'VE BEEN LYING TO YOU]
 
@@ -101,48 +97,18 @@ These two dialogues lay it out pretty clearly for us: there is the divide betwee
 
 On one extreme, analog amplifiers are interacted with mostly by turning knobs and toggling switches, which give access to defined and limited parameters. It is a very hands-on and direct way of interfacing with the equipment, as the controls can all be reached immediately by the user, its physical nature making them easier to tinker with and modify. Software--the quintessential manifestation of digital--, on the other extreme, leads to a different kind of interaction. Even when software mirrors the interface of an analog amplifier, it still involves the mediation of generic computer input devices. Reaching for and turning a physical knob is fundamentally different from picking up a mouse, moving its cursor across the screen until the (often small) image of a knob, and then clicking and dragging to adjust the virtual control. Touchscreens are not much better: though more direct in the reaching aspect, they often require waking up the device first and then demand more of the user's attention throughout the interaction due to the complete lack of tactile feedback.
 
-Now that we built some common ground about the tension between tube, solid-state and software amplifiers, it is time to add the second event announced at the beginning of this text.
-​
 ***
 
-Neural Amp Modeller (NAM) was first released in 2019 by a software developer named Steven Atkinson as a hobby project, out of curiosity (https://www.youtube.com/watch?v=7pbz9T7gv-s, 5:51). According to one of the project's collaborators, Dom McSweeney, the first "demonstration plugins" were out in early 2022 and by early 2023, "the GitHub became better organized, helping others to find the right tools more easily to build products". Atkinson released the source code to the public, which means that anyone can download, use and look at the program's code for free. In an interview, Atkinson said:
+Now that we built some common ground about the tension between tube, solid-state and software amplifiers, we can get to some of the arguments I have been able to gather during approximately one year of fieldwork on the aforementioned online spaces.[REFERENCIA] The conversations and discussions I followed throughout this period started and revolved around the various aspects of guitar amplification that I presented above, but bigger patterns began to take shape, revealing some of the bases and fundamentals of people's reasoning and arguments. These will guide the discussion from now on and will be presented as themes that are then concisely developed.
 
-> I didn't think that I was doing anything that, to someone familiar with Machine Learning tools, would be surprising. So I expected that this would be something kind of like a blog post where people who are curious about this might learn about it... folks who are familiar with Machine Learning would look at and say 'yeah, that makes complete sense' and go on with their day. And so it made a lot of sense that this would look like something where accessibility and kind of teaching... would make a lot of sense.(https://www.youtube.com/watch?v=7pbz9T7gv-s, 9:05)
+1. Technology as an enabler and a democratizing force
 
-34
-## NAM and the open source discussion
-- modelling and profiling
-- null tests
-- NAM vs Kemper/QC/Fractal/Helix/ToneX/etc
+Technology has been hailed as a democratizing force in itself at least since the beginning of the so-called internet age,[^internetAndTech] and today more than ever there's practically no technological affair that isn't connected to the internet (in both senses). Covering a broad spectrum that touches on digital rights activism, the free culture movement, Wikipedia, "copyfight", free and open-source software, crowdfunding, self-publishing initiatives, cryptocurrencies, podcasting, "value-for-value" initiatives, grassroots journalism, the so-called Arab Spring and even YouTube, technology is the common enabler to all of these phenomena. Phenomena that, by its turn, can be regarded as democratizing in one sense or another. More directly related to music, streaming and piracy made entire song catalogs immediately available to anyone with an internet-connected device; blogs and, later, social media made it possible for musicians to cut costs on publicity; and tech-deflation[^techDeflation] (the downward pressure on prices as new tech gets old), put formerly inaccessible "studio-grade" gear in the bedrooms of hobbyists. Music software is especially characteristic of the phenomenon: sounds such as those of a symphony orchestra, ambience like that of a reverb chamber or the tone and affordances of an all-analog Neve console are currently accessible to virtually anyone in the form of a software plugin, whereas they were previously attainable only to artists signed to a big recording label with a correspondingly big budget. 
 
-38
-	- discussions that tap into the Open Source character of NAM to criticize people selling profiles:
-		- "for the people, by the people" or, even better, "for us, by us", as a user put it
-		- misunderstanding of what OSS actually implies and accusations by others of being "freeloaders"
+Democracy and its advances and reverses throughout History form a complex theme that obviously cannot be satisfactorily dealt within the constraints of this article,[^deibert]. However, the forces that matter to our discussion here are those that enable people to acquire knowledge and broadcast what they make with that knowledge. More specifically, we are looking at some of the possibilities for people to get their artistic aspirations in motion and eventually released. This is also the reason I am treating software as a metonymy for technology. In a sense, software is where it all "happens" with regard to the digital amplifiers at the center of our discussion. Though it may sound like I am simply singing the praises of music software, looking at the possibilities and affordances that these solutions offer makes clearer what is at stake when we start to see people put so much stress on their shortcomings. As we will see below, sometimes a person celebrates a certain feature only to immediately see that same feature be turned on its head and be considered a problem by an interlocutor.
 
-CONCLUSÕES E GRANDES TEMAS
+2) Interface
 
-
-
-
-
-
-Ordens de justificação:
-
-a) Tech as enabler/democratizing force
-
-40
-Technology as an enabler
-Democracy and its advances and reverses throughout History form a complex theme that obviously cannot be satisfactorily dealt within the constraints of this article,[^deibert] so let me limit my scope right from the start. As stated above, I am particularly interested here in forces that enable people to acquire knowledge and broadcast what they make with that knowledge. More specifically, I want to investigate some of the possibilities for people to get their artistic aspirations in motion and eventually released in the current post-pandemic world [RIDÍCULO, ARRUMAR UMA DEFINIÇÃO MELHOR - provavelmente vou ter que pegar alguma explicação sobre o post-pandemic world].
-
-41
-Technology has thus been hailed as a democratizing force in itself--at least since the beginning of the internet age,[^internetAndTech] and today more than ever there's practically no technological affair that isn't connected to the internet (in both senses). Covering a broad spectrum that touches on digital rights activism, the free culture movement, Wikipedia, "copyfight", free and open-source software, crowdfunding, self-publishing initiatives, cryptocurrencies, podcasting, "value-for-value" initiatives, grassroots journalism, the so-called Arab Spring and even YouTube, technology is the common enabler to all of these phenomena. Phenomena that, by its turn, can be regarded as democratizing in one sense or another. More directly related to music, streaming and piracy made entire song catalogs immediately available to anyone with an internet-connected device; blogs and, later, social media made it possible for musicians to cut costs on publicity; and tech-deflation[^techDeflation] (the downward pressure on prices as new tech gets old), put formerly inaccessible "studio-grade" gear in the bedrooms of hobbyists. Music software is especially characteristic of the phenomenon: sounds such as those of a symphony orchestra, ambience like that of a reverb chamber or the tone and affordances of an all-analog Neve console are currently accessible to virtually anyone in the form of a software plugin, whereas they were previously attainable only to artists signed to a big recording label with a correspondingly big budget. 
-
-45
-The reason I have been treating software as a metonymy for technology is that in a sense software is where it all "happens" with regard to the digital amplifiers at the center of our discussion in this paper. Though it may sound like I am simply singing the praises of music software, what I actually intend to do in these initial sections is provide as much information as possible about the possibilities and affordances that these solutions offer so that it becomes clearer what is at stake when we start to see people put so much stress on their shortcomings. As we will see below, sometimes a person celebrates a certain feature only to immediately see that same feature be turned on its head and be considered a problem by an interlocutor.
-
-c) interface
-42
 A great deal of music software is based on coveted pieces of gear, sometimes building upon it but more frequently trying to replicate it as faithfully as possible, including its user interface. At the same time, compared to the hardware it "emulates",[^emulation] software is usually cheaper (potentially free if we consider piracy) and more flexible. All this makes working "in-the-box"[^inTheBox] significantly more attainable to those who can't resort to a traditional studio or something similar. It costs a lot more money to book studio time and the price follows the equipment it possesses,[^studioMojo] but there are also expenses and constraints to be accounted for in the very fact of going to a studio compared to doing it all at home. First, there is the travel time and corresponding gas costs. Second, one must block an entire time slot ahead, as opposed to squeezing some music-making at home between chores or when the day is done. Finally, there's the knowing part: the people, where to go, the vocabulary and the codes to interact in a professional studio.
 
 51

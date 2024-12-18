@@ -9,6 +9,8 @@
 [artigoHistoriaAmpsGuitarWorld]: https://www.guitarworld.com/features/solid-state-digital-guitar-amps-evolution-future-of-tubes (accessed in Nov 30, 2024)
 [^pegarReferenciaNasAbasDoTelefone]
 [^referenciaMoveAir]
+[^quilter]: Amplifier maker specialized in analog solid-state amplifiers that some people argue sound very close to tube ones.
+[^refFowler]: https://www.tdpri.com/threads/quilter-amps-what-are-your-thoughts.953963/post-9127734
 [^notASolidStateHater]: https://www.reddit.com/r/GuitarAmps/comments/1fhktq2/comment/lndcf4n/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
 [^interestingInteractions]: https://www.reddit.com/r/GuitarAmps/comments/1fhktq2/comment/lnaq0h1/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
 [^iI2]: https://www.reddit.com/r/GuitarAmps/comments/1fhktq2/comment/lnarbyl/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button

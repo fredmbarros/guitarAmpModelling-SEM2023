@@ -97,3 +97,38 @@ This order is concerned with the **personal utility** of technology and its **fi
 
 ### Summary  
 This revised model applies Boltanski and Thévenot’s **orders of worth** to guitar amplification equipment, offering a nuanced understanding of how different technologies are justified and valued across various social spheres. From **cost-effective digital amps** in the **Market Order** to the **prestige** of vintage tube amps in the **Fame Order**, and the **collaborative ethos** surrounding open-source platforms like NAM in the **Civic Order**, these technologies embody multiple forms of worth depending on their context of use. Ultimately, the way musicians engage with and justify different amplification technologies reveals much about their artistic, technical, and social values within the larger guitar community.
+
+
+
+
+
+
+AS DIFERENÇAS ENTRE ANALÓGICO E DIGITAL
+
+having to scroll through (endless) menus, harder to tweak on the fly, at the same time tone is always the same, so it's predictable/reliable, light to carry around - but many times you don't carry because they are in computers at home that "bedroom guitarists" use (vs pros, who graduate to tube amps - but the A-level pros (who play with big acts) have been using (and publicizing) more and more modellers for their dependability and predictability). The solutions for gigging musicians try to bridge the gap between the immediacy of hardware solutions and the main selling points of the digital ones.
+
+32
+		- another interesting point is that I've never seen anyone mention the waste of energy that tube amps represent:
+			> "Most of the energy loss in classic amp designs occurs because of the need to keep the power tubes operating in their linear range. To function optimally, tubes need to be at a certain temperature–this is why you need to warm up a tube amp before you play it. Most of the power draw of tube amps goes towards keeping the tubes hot, as opposed to amplifying the guitar signal.
+			> Class D amps function at around 90% efficiency, meaning that only about 10% of the energy put into them gets released as heat. Classic guitar amplifiers convert anywhere from 70% to 90% of the energy they draw from the wall into heat." (https://georgedyermusic.com/2016/11/24/how-do-quilter-amps-work/ Oct 4 2023)
+
+
+As we can see from this brief example, the dissent about these matters can go deep. Discussions like this one are legion on internet forums, with multiple threads on the same themes, often overlapping and cross-referencing each other. However, If the general feeling about solid-state amplifiers is not the most favorable, their digital counterparts have had a more nuanced story.
+
+23
+Digital equipment that tried to produce a tone similar to tube amplifiers started to reach the market in the 1990s. The Boss GT100
+
+24
+There is a third kind of amplifier that occupies sort of an intermediary position in this discussion: hardware digital amps. These are hardware amps that employ digital technology in some of its components. What the digital part is doing varies considerably from model to model, some being all analog with only a digital reverb, while others have a great deal of their tone produced by their onboard computers. Many are in fact entirely *solid-state*, employing both digital and analog tone-producing means, while others are tube amps with digital technology added (like a load box and cabinet simulator,[^loadBoxCabSim] for example), often including all three technologies spread across different parts of the device.
+
+
+
+EPISÓDIO DO KEMPER TÁ ON BRAND E CRÍTICAS À JHS
+ JHS's "blind test" is actually perfectly on-brand, as if they decided to do a year-long "Can You Hear It?" episode with their entire audience, but without the audience knowing--let alone consenting to it. Even the video's slight troll-like tone fits the JHS Show's schtick and may have actually helped prevent harming the company's reputation too much in that episode.
+
+> The folks going all in on taking great umbrage with misleading titles, clickbait thumbnails, or manufactured controversy, must not follow Josh or JHS on YouTube.
+> Either that or they forgot the year long Kemper deception & subsequent "we're smarter than all y'all" videos, the Klon reverb listing, the Bad Monkey ordeal, and any number of other things JHS has done purely for attention & publicity.[^Allen_Overby_JhsNoFacebook]
+> Brett Huhn
+> If it's just a silly thing, then why did they take so long to spill about it? Yeah the fish stinks from the head. After years, I still only have one JHS pedal. It is fun to read the group posts here.
+> You defend the indefensible when you defend the Elephant in the room. It's like, OK, you can lie to me about small stuff when you're selling me something and as long as you don't lie to me about the big stuff then I'll keep buying your gear. ￼So then Ya want to feel better about yourself and your own failings by convincing others to accept the tiny little lie as well …
+> Nah man believe what you want, but don't expect folks to hop on your bandwagon. I trust their videos not one bit.[^dontTrustJHS]: https://www.facebook.com/share/p/15KcFpMKXr/

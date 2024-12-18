@@ -101,8 +101,14 @@ These two dialogues lay it out pretty clearly for us: there is the divide betwee
 
 On one extreme, analog amplifiers are interacted with mostly by turning knobs and toggling switches, which give access to defined and limited parameters. It is a very hands-on and direct way of interfacing with the equipment, as the controls can all be reached immediately by the user, its physical nature making them easier to tinker with and modify. Software--the quintessential manifestation of digital--, on the other extreme, leads to a different kind of interaction. Even when software mirrors the interface of an analog amplifier, it still involves the mediation of generic computer input devices. Reaching for and turning a physical knob is fundamentally different from picking up a mouse, moving its cursor across the screen until the (often small) image of a knob, and then clicking and dragging to adjust the virtual control. Touchscreens are not much better: though more direct in the reaching aspect, they often require waking up the device first and then demand more of the user's attention throughout the interaction due to the complete lack of tactile feedback.
 
-[Now that we built some common ground about the tension between tube, solid-state and software amplifiers, it is time to add the second event announced at the beginning of this text.
-​	
+Now that we built some common ground about the tension between tube, solid-state and software amplifiers, it is time to add the second event announced at the beginning of this text.
+​
+***
+
+Neural Amp Modeller (NAM) was first released in 2019 by a software developer named Steven Atkinson as a hobby project, out of curiosity (https://www.youtube.com/watch?v=7pbz9T7gv-s, 5:51). According to one of the project's collaborators, Dom McSweeney, the first "demonstration plugins" were out in early 2022 and by early 2023, "the GitHub became better organized, helping others to find the right tools more easily to build products". Atkinson released the source code to the public, which means that anyone can download, use and look at the program's code for free. In an interview, Atkinson said:
+
+> I didn't think that I was doing anything that, to someone familiar with Machine Learning tools, would be surprising. So I expected that this would be something kind of like a blog post where people who are curious about this might learn about it... folks who are familiar with Machine Learning would look at and say 'yeah, that makes complete sense' and go on with their day. And so it made a lot of sense that this would look like something where accessibility and kind of teaching... would make a lot of sense.(https://www.youtube.com/watch?v=7pbz9T7gv-s, 9:05)
+
 34
 ## NAM and the open source discussion
 - modelling and profiling
@@ -138,8 +144,6 @@ The reason I have been treating software as a metonymy for technology is that in
 c) interface
 42
 A great deal of music software is based on coveted pieces of gear, sometimes building upon it but more frequently trying to replicate it as faithfully as possible, including its user interface. At the same time, compared to the hardware it "emulates",[^emulation] software is usually cheaper (potentially free if we consider piracy) and more flexible. All this makes working "in-the-box"[^inTheBox] significantly more attainable to those who can't resort to a traditional studio or something similar. It costs a lot more money to book studio time and the price follows the equipment it possesses,[^studioMojo] but there are also expenses and constraints to be accounted for in the very fact of going to a studio compared to doing it all at home. First, there is the travel time and corresponding gas costs. Second, one must block an entire time slot ahead, as opposed to squeezing some music-making at home between chores or when the day is done. Finally, there's the knowing part: the people, where to go, the vocabulary and the codes to interact in a professional studio.
-
-
 
 51
 Divide between software and hardware, UI as mitigator
